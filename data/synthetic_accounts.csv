@@ -1,0 +1,1005 @@
+account_id,account_name,region,country,industry,account_tier,employee_size,estimated_annual_revenue,account_status,contract_start_date,contract_end_date,use_case,sales_rep_name,sales_manager_name
+ACC-000001,Beta Inc,APJ,Australia,Healthcare & Life Sciences,Enterprise,5500,66000000,Churned,2020-01-02,2021-01-02,Machine Learning & AI,Zara Collins,Priya Sharma
+ACC-000001,Beta Inc,APJ,Australia,Healthcare & Life Sciences,Enterprise,5500,66000000,Churned,2020-01-02,2021-01-02,Machine Learning & AI,Zen Phillips,Hiroshi Tanaka
+ACC-000002,Apex Consulting,AMER,United States,Technology,Enterprise,6000,120000000,At Risk,2020-01-03,2021-01-04,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000003,Matrix Services,AMER,United States,Retail & E-commerce,Enterprise,6500,130000000,Active,2020-01-04,2021-01-06,Data Engineering,Emery Young,David Thompson
+ACC-000004,Quantum Solutions,EMEA,Spain,Manufacturing,Enterprise,7000,112000000,Active,2020-01-05,2021-01-08,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000005,Synergy Analytics,AMER,United States,Media & Entertainment,Enterprise,7500,150000000,Active,2020-01-06,2021-01-10,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000005,Synergy Analytics,AMER,United States,Media & Entertainment,Enterprise,7500,150000000,Active,2020-01-06,2021-01-10,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000006,Catalyst Intelligence,EMEA,Germany,Telecommunications,Enterprise,8000,128000000,Active,2020-01-07,2021-01-12,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000008,Zenith Associates,EMEA,Netherlands,Government & Public Sector,Enterprise,9000,144000000,Active,2020-01-09,2021-01-16,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000009,Vortex Consulting,APJ,Australia,Education,Enterprise,9500,114000000,Active,2020-01-10,2021-01-18,Risk & Compliance,Kai Campbell,Hiroshi Tanaka
+ACC-000011,Titan Solutions,APJ,Australia,Real Estate,Enterprise,10500,126000000,Active,2020-01-12,2021-01-22,Data Science Platform,Iris Stewart,Priya Sharma
+ACC-000013,Vertex Intelligence,AMER,United States,Automotive,Enterprise,11500,230000000,Active,2020-01-14,2021-01-26,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000016,Quantum Consulting,LATAM,Chile,Healthcare & Life Sciences,Mid-Market,2100,4800000,Active,2020-01-17,2021-02-01,Customer 360,Vale Sanchez,Carlos Silva
+ACC-000017,Synergy Services,EMEA,Netherlands,Technology,Mid-Market,2200,33500000,Active,2020-01-18,2021-02-03,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000017,Synergy Services,EMEA,Netherlands,Technology,Mid-Market,2200,33500000,Active,2020-01-18,2021-02-03,IoT Analytics,Ocean Baker,James Mueller
+ACC-000018,Catalyst Solutions,EMEA,France,Retail & E-commerce,Mid-Market,2300,35000000,Active,2020-01-19,2021-02-05,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000019,Pinnacle Analytics,APJ,Singapore,Manufacturing,Mid-Market,2400,25000000,Active,2020-01-20,2021-02-07,Marketing Analytics,Atlas Edwards,Priya Sharma
+ACC-000019,Pinnacle Analytics,APJ,Singapore,Manufacturing,Mid-Market,2400,25000000,Active,2020-01-20,2021-02-07,Marketing Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000020,Global Industries,EMEA,France,Media & Entertainment,Mid-Market,2500,38000000,New,2020-01-21,2021-02-09,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000021,Sigma Ltd,AMER,Mexico,Telecommunications,Mid-Market,2600,52000000,Churned,2020-01-22,2021-02-11,Risk & Compliance,Emery Young,David Thompson
+ACC-000022,Phoenix Associates,AMER,United States,Energy & Utilities,Mid-Market,2700,54000000,At Risk,2020-01-23,2021-02-13,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000023,Titan Consulting,AMER,Mexico,Government & Public Sector,Mid-Market,2800,56000000,Active,2020-01-24,2021-02-15,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000023,Titan Consulting,AMER,Mexico,Government & Public Sector,Mid-Market,2800,56000000,Active,2020-01-24,2021-02-15,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000025,Vertex Solutions,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2020-01-26,2021-02-19,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000025,Vertex Solutions,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2020-01-26,2021-02-19,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000025,Vertex Solutions,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2020-01-26,2021-02-19,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000025,Vertex Solutions,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2020-01-26,2021-02-19,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000026,Apex Analytics,AMER,Canada,Real Estate,Mid-Market,3100,62000000,Active,2020-01-27,2021-02-21,Real-time Analytics,Reese Lewis,David Thompson
+ACC-000026,Apex Analytics,AMER,Canada,Real Estate,Mid-Market,3100,62000000,Active,2020-01-27,2021-02-21,Real-time Analytics,Riley Martinez,Michael Chen
+ACC-000028,Quantum Partners,EMEA,Spain,Automotive,Mid-Market,3300,12500000,Active,2020-01-29,2021-02-25,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000032,Zenith Solutions,EMEA,Spain,Technology,Mid-Market,700,18500000,Active,2020-02-02,2021-03-05,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000036,Nexus Associates,AMER,United States,Telecommunications,Mid-Market,1100,22000000,Active,2020-02-06,2021-03-13,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000038,Apex Services,AMER,United States,Government & Public Sector,Mid-Market,1300,26000000,Active,2020-02-08,2021-03-17,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000039,Matrix Solutions,AMER,United States,Education,Mid-Market,1400,28000000,Active,2020-02-09,2021-03-19,Data Engineering,Emery Young,David Thompson
+ACC-000040,Global Solutions,AMER,United States,Transportation & Logistics,Mid-Market,1500,30000000,New,2020-02-10,2021-03-21,Customer 360,Drew Garcia,Michael Chen
+ACC-000041,Beta Holdings,AMER,Canada,Real Estate,Mid-Market,1600,32000000,Churned,2020-02-11,2021-03-23,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000041,Beta Holdings,AMER,Canada,Real Estate,Mid-Market,1600,32000000,Churned,2020-02-11,2021-03-23,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000042,Catalyst Partners,AMER,Canada,Insurance,Mid-Market,1700,34000000,At Risk,2020-02-12,2021-03-25,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000042,Catalyst Partners,AMER,Canada,Insurance,Mid-Market,1700,34000000,At Risk,2020-02-12,2021-03-25,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000043,Pinnacle Associates,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-02-13,2021-03-27,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000043,Pinnacle Associates,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-02-13,2021-03-27,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000043,Pinnacle Associates,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-02-13,2021-03-27,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000043,Pinnacle Associates,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-02-13,2021-03-27,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000044,Zenith Consulting,EMEA,Spain,Professional Services,Mid-Market,1900,36500000,Active,2020-02-14,2021-03-29,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000045,Vortex Services,AMER,United States,Financial Services,Mid-Market,2000,40000000,Active,2020-02-15,2021-03-31,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000050,Apex Associates,APJ,Japan,Media & Entertainment,SMB,300,800000,Active,2020-02-20,2021-04-10,Real-time Analytics,Zara Collins,Priya Sharma
+ACC-000050,Apex Associates,APJ,Japan,Media & Entertainment,SMB,300,800000,Active,2020-02-20,2021-04-10,Real-time Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000052,Quantum Services,EMEA,United Kingdom,Energy & Utilities,SMB,350,1850000,Active,2020-02-22,2021-04-14,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000054,Catalyst Analytics,AMER,United States,Education,SMB,400,3800000,Active,2020-02-24,2021-04-18,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000055,Pinnacle Intelligence,APJ,Japan,Transportation & Logistics,SMB,425,1300000,Active,2020-02-25,2021-04-20,Marketing Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000056,Zenith Partners,AMER,Mexico,Real Estate,SMB,450,4200000,Active,2020-02-26,2021-04-22,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000057,Vortex Associates,APJ,Japan,Insurance,SMB,475,1500000,Active,2020-02-27,2021-04-24,Risk & Compliance,Zara Collins,Priya Sharma
+ACC-000057,Vortex Associates,APJ,Japan,Insurance,SMB,475,1500000,Active,2020-02-27,2021-04-24,Risk & Compliance,Zen Phillips,Hiroshi Tanaka
+ACC-000058,Phoenix Consulting,AMER,United States,Automotive,SMB,500,4600000,Active,2020-02-28,2021-04-26,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000060,Global Industries,APJ,Japan,Financial Services,SMB,50,600000,New,2020-03-01,2021-04-30,Data Analytics & BI,Iris Stewart,Priya Sharma
+ACC-000061,Sigma Inc,EMEA,United Kingdom,Healthcare & Life Sciences,SMB,75,950000,Churned,2020-03-02,2021-05-02,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000061,Sigma Inc,EMEA,United Kingdom,Healthcare & Life Sciences,SMB,75,950000,Churned,2020-03-02,2021-05-02,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000061,Sigma Inc,EMEA,United Kingdom,Healthcare & Life Sciences,SMB,75,950000,Churned,2020-03-02,2021-05-02,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000061,Sigma Inc,EMEA,United Kingdom,Healthcare & Life Sciences,SMB,75,950000,Churned,2020-03-02,2021-05-02,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000062,Apex Intelligence,APJ,Japan,Technology,SMB,100,800000,At Risk,2020-03-03,2021-05-04,Real-time Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000064,Quantum Associates,APJ,Japan,Manufacturing,SMB,150,1000000,Active,2020-03-05,2021-05-08,Customer 360,Zara Collins,Priya Sharma
+ACC-000064,Quantum Associates,APJ,Japan,Manufacturing,SMB,150,1000000,Active,2020-03-05,2021-05-08,Customer 360,Zen Phillips,Hiroshi Tanaka
+ACC-000067,Pinnacle Solutions,AMER,United States,Energy & Utilities,SMB,225,2400000,Active,2020-03-08,2021-05-14,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000072,Nexus Consulting,AMER,United States,Insurance,SMB,350,3400000,Active,2020-03-13,2021-05-24,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000074,Apex Solutions,EMEA,Germany,Professional Services,SMB,400,2900000,Active,2020-03-15,2021-05-28,Real-time Analytics,Rain Carter,James Mueller
+ACC-000074,Apex Solutions,EMEA,Germany,Professional Services,SMB,400,2900000,Active,2020-03-15,2021-05-28,Real-time Analytics,River Scott,Lisa Wang
+ACC-000074,Apex Solutions,EMEA,Germany,Professional Services,SMB,400,2900000,Active,2020-03-15,2021-05-28,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000075,Matrix Analytics,AMER,Canada,Financial Services,SMB,425,4000000,Active,2020-03-16,2021-05-30,Data Engineering,Emery Young,David Thompson
+ACC-000076,Quantum Intelligence,AMER,United States,Healthcare & Life Sciences,SMB,450,4200000,Active,2020-03-17,2021-06-01,Customer 360,Drew Garcia,Michael Chen
+ACC-000077,Synergy Partners,EMEA,France,Technology,SMB,475,1100000,Active,2020-03-18,2021-06-03,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000077,Synergy Partners,EMEA,France,Technology,SMB,475,1100000,Active,2020-03-18,2021-06-03,IoT Analytics,Ocean Baker,James Mueller
+ACC-000078,Catalyst Associates,APJ,Japan,Retail & E-commerce,SMB,500,1200000,Active,2020-03-19,2021-06-05,Financial Analytics,Zara Collins,Priya Sharma
+ACC-000078,Catalyst Associates,APJ,Japan,Retail & E-commerce,SMB,500,1200000,Active,2020-03-19,2021-06-05,Financial Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000079,Pinnacle Consulting,AMER,United States,Manufacturing,SMB,525,4800000,Active,2020-03-20,2021-06-07,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000079,Pinnacle Consulting,AMER,United States,Manufacturing,SMB,525,4800000,Active,2020-03-20,2021-06-07,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000079,Pinnacle Consulting,AMER,United States,Manufacturing,SMB,525,4800000,Active,2020-03-20,2021-06-07,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000079,Pinnacle Consulting,AMER,United States,Manufacturing,SMB,525,4800000,Active,2020-03-20,2021-06-07,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000080,Global Solutions,AMER,United States,Media & Entertainment,SMB,50,1000000,New,2020-03-21,2021-06-09,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000080,Global Solutions,AMER,United States,Media & Entertainment,SMB,50,1000000,New,2020-03-21,2021-06-09,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000085,Vertex Associates,AMER,United States,Transportation & Logistics,SMB,175,2000000,Active,2020-03-26,2021-06-19,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000088,Quantum Solutions,LATAM,Chile,Automotive,SMB,250,1040000,Active,2020-03-29,2021-06-25,Customer 360,Vale Sanchez,Carlos Silva
+ACC-000090,Catalyst Intelligence,EMEA,Spain,Financial Services,SMB,300,800000,Active,2020-03-31,2021-06-29,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000092,Zenith Associates,AMER,Mexico,Technology,SMB,350,3400000,Active,2020-04-02,2021-07-03,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000093,Vortex Consulting,APJ,Singapore,Retail & E-commerce,SMB,375,1500000,Active,2020-04-03,2021-07-05,Risk & Compliance,Kai Campbell,Hiroshi Tanaka
+ACC-000094,Phoenix Services,LATAM,Chile,Manufacturing,SMB,400,720000,Active,2020-04-04,2021-07-07,Operational Analytics,Vale Sanchez,Carlos Silva
+ACC-000095,Titan Solutions,AMER,Canada,Media & Entertainment,SMB,425,4000000,Active,2020-04-05,2021-07-09,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000095,Titan Solutions,AMER,Canada,Media & Entertainment,SMB,425,4000000,Active,2020-04-05,2021-07-09,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000096,Nexus Analytics,APJ,Singapore,Telecommunications,SMB,450,600000,Active,2020-04-06,2021-07-11,Data Analytics & BI,Atlas Edwards,Priya Sharma
+ACC-000096,Nexus Analytics,APJ,Singapore,Telecommunications,SMB,450,600000,Active,2020-04-06,2021-07-11,Data Analytics & BI,Orion Evans,Hiroshi Tanaka
+ACC-000097,Vertex Intelligence,APJ,Australia,Energy & Utilities,SMB,475,700000,Active,2020-04-07,2021-07-13,Machine Learning & AI,Neo Parker,Hiroshi Tanaka
+ACC-000098,Apex Partners,LATAM,Chile,Government & Public Sector,SMB,500,1040000,Active,2020-04-08,2021-07-15,Real-time Analytics,Rio Rogers,Carlos Silva
+ACC-000098,Apex Partners,LATAM,Chile,Government & Public Sector,SMB,500,1040000,Active,2020-04-08,2021-07-15,Real-time Analytics,Cruz Morris,Carlos Silva
+ACC-000099,Matrix Associates,AMER,Canada,Education,SMB,525,4800000,Active,2020-04-09,2021-07-17,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000100,Global Industries,AMER,United States,Transportation & Logistics,Enterprise,5000,100000000,New,2020-04-10,2021-07-19,Customer 360,Parker Allen,David Thompson
+ACC-000102,Catalyst Solutions,APJ,Japan,Insurance,Enterprise,6000,132000000,At Risk,2020-04-12,2021-07-23,Financial Analytics,Iris Stewart,Priya Sharma
+ACC-000108,Nexus Services,AMER,Canada,Retail & E-commerce,Enterprise,9000,180000000,Active,2020-04-18,2021-08-04,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000110,Apex Analytics,APJ,Australia,Media & Entertainment,Enterprise,10000,180000000,Active,2020-04-20,2021-08-08,Real-time Analytics,Atlas Edwards,Priya Sharma
+ACC-000110,Apex Analytics,APJ,Australia,Media & Entertainment,Enterprise,10000,180000000,Active,2020-04-20,2021-08-08,Real-time Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000111,Matrix Intelligence,APJ,Japan,Telecommunications,Enterprise,10500,186000000,Active,2020-04-21,2021-08-10,Data Engineering,Neo Parker,Hiroshi Tanaka
+ACC-000112,Quantum Partners,EMEA,France,Energy & Utilities,Enterprise,11000,336000000,Active,2020-04-22,2021-08-12,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000113,Synergy Associates,AMER,United States,Government & Public Sector,Enterprise,11500,230000000,Active,2020-04-23,2021-08-14,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000113,Synergy Associates,AMER,United States,Government & Public Sector,Enterprise,11500,230000000,Active,2020-04-23,2021-08-14,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000114,Catalyst Consulting,EMEA,Spain,Education,Enterprise,12000,352000000,Active,2020-04-24,2021-08-16,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000115,Pinnacle Services,AMER,United States,Transportation & Logistics,Enterprise,12500,250000000,Active,2020-04-25,2021-08-18,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000115,Pinnacle Services,AMER,United States,Transportation & Logistics,Enterprise,12500,250000000,Active,2020-04-25,2021-08-18,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000115,Pinnacle Services,AMER,United States,Transportation & Logistics,Enterprise,12500,250000000,Active,2020-04-25,2021-08-18,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000115,Pinnacle Services,AMER,United States,Transportation & Logistics,Enterprise,12500,250000000,Active,2020-04-25,2021-08-18,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000116,Zenith Solutions,APJ,Japan,Real Estate,Mid-Market,3100,22000000,Active,2020-04-26,2021-08-20,Supply Chain Analytics,Iris Stewart,Priya Sharma
+ACC-000117,Vortex Analytics,AMER,Canada,Insurance,Mid-Market,3200,64000000,Active,2020-04-27,2021-08-22,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000118,Phoenix Intelligence,AMER,United States,Automotive,Mid-Market,3300,66000000,Active,2020-04-28,2021-08-24,Operational Analytics,Parker Allen,David Thompson
+ACC-000120,Global Solutions,APJ,Japan,Financial Services,Mid-Market,500,6000000,New,2020-04-30,2021-08-28,Data Analytics & BI,Zara Collins,Priya Sharma
+ACC-000120,Global Solutions,APJ,Japan,Financial Services,Mid-Market,500,6000000,New,2020-04-30,2021-08-28,Data Analytics & BI,Zen Phillips,Hiroshi Tanaka
+ACC-000121,Beta Inc,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Churned,2020-05-01,2021-08-30,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000124,Quantum Analytics,EMEA,Spain,Manufacturing,Mid-Market,900,44000000,Active,2020-05-04,2021-09-05,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000125,Synergy Intelligence,LATAM,Argentina,Media & Entertainment,Mid-Market,1000,8000000,Active,2020-05-05,2021-09-07,IoT Analytics,Rio Rogers,Carlos Silva
+ACC-000125,Synergy Intelligence,LATAM,Argentina,Media & Entertainment,Mid-Market,1000,8000000,Active,2020-05-05,2021-09-07,IoT Analytics,Cruz Morris,Carlos Silva
+ACC-000126,Catalyst Partners,AMER,United States,Telecommunications,Mid-Market,1100,22000000,Active,2020-05-06,2021-09-09,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000128,Zenith Consulting,EMEA,Spain,Government & Public Sector,Mid-Market,1300,12500000,Active,2020-05-08,2021-09-13,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000129,Vortex Services,AMER,United States,Education,Mid-Market,1400,28000000,Active,2020-05-09,2021-09-15,Risk & Compliance,Emery Young,David Thompson
+ACC-000130,Phoenix Solutions,APJ,Singapore,Transportation & Logistics,Mid-Market,1500,16000000,Active,2020-05-10,2021-09-17,Operational Analytics,Iris Stewart,Priya Sharma
+ACC-000132,Nexus Intelligence,AMER,Canada,Insurance,Mid-Market,1700,34000000,Active,2020-05-12,2021-09-21,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000132,Nexus Intelligence,AMER,Canada,Insurance,Mid-Market,1700,34000000,Active,2020-05-12,2021-09-21,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000133,Vertex Partners,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-05-13,2021-09-23,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000133,Vertex Partners,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-05-13,2021-09-23,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000133,Vertex Partners,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-05-13,2021-09-23,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000133,Vertex Partners,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-05-13,2021-09-23,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000134,Apex Associates,EMEA,Sweden,Professional Services,Mid-Market,1900,21500000,Active,2020-05-14,2021-09-25,Real-time Analytics,Rain Carter,James Mueller
+ACC-000134,Apex Associates,EMEA,Sweden,Professional Services,Mid-Market,1900,21500000,Active,2020-05-14,2021-09-25,Real-time Analytics,River Scott,Lisa Wang
+ACC-000134,Apex Associates,EMEA,Sweden,Professional Services,Mid-Market,1900,21500000,Active,2020-05-14,2021-09-25,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000135,Matrix Consulting,AMER,Mexico,Financial Services,Mid-Market,2000,40000000,Active,2020-05-15,2021-09-27,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000136,Quantum Services,AMER,Canada,Healthcare & Life Sciences,Mid-Market,2100,42000000,Active,2020-05-16,2021-09-29,Customer 360,Parker Allen,David Thompson
+ACC-000139,Pinnacle Intelligence,APJ,Singapore,Manufacturing,Mid-Market,2400,25000000,Active,2020-05-19,2021-10-05,Marketing Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000142,Phoenix Consulting,APJ,Australia,Energy & Utilities,Mid-Market,2700,8000000,At Risk,2020-05-22,2021-10-11,Operational Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000145,Vertex Analytics,EMEA,Spain,Transportation & Logistics,Mid-Market,3000,38000000,Active,2020-05-25,2021-10-17,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000145,Vertex Analytics,EMEA,Spain,Transportation & Logistics,Mid-Market,3000,38000000,Active,2020-05-25,2021-10-17,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000145,Vertex Analytics,EMEA,Spain,Transportation & Logistics,Mid-Market,3000,38000000,Active,2020-05-25,2021-10-17,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000145,Vertex Analytics,EMEA,Spain,Transportation & Logistics,Mid-Market,3000,38000000,Active,2020-05-25,2021-10-17,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000146,Apex Intelligence,EMEA,Netherlands,Real Estate,SMB,200,2450000,Active,2020-05-26,2021-10-19,Real-time Analytics,Rain Carter,James Mueller
+ACC-000146,Apex Intelligence,EMEA,Netherlands,Real Estate,SMB,200,2450000,Active,2020-05-26,2021-10-19,Real-time Analytics,River Scott,Lisa Wang
+ACC-000146,Apex Intelligence,EMEA,Netherlands,Real Estate,SMB,200,2450000,Active,2020-05-26,2021-10-19,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000147,Matrix Partners,AMER,United States,Insurance,SMB,225,2400000,Active,2020-05-27,2021-10-21,Data Engineering,Emery Young,David Thompson
+ACC-000148,Quantum Associates,AMER,United States,Automotive,SMB,250,2600000,Active,2020-05-28,2021-10-23,Customer 360,Drew Garcia,Michael Chen
+ACC-000149,Synergy Consulting,AMER,United States,Professional Services,SMB,275,2800000,Active,2020-05-29,2021-10-25,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000149,Synergy Consulting,AMER,United States,Professional Services,SMB,275,2800000,Active,2020-05-29,2021-10-25,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000150,Catalyst Services,AMER,United States,Financial Services,SMB,300,3000000,Active,2020-05-30,2021-10-27,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000150,Catalyst Services,AMER,United States,Financial Services,SMB,300,3000000,Active,2020-05-30,2021-10-27,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000152,Zenith Analytics,AMER,Canada,Technology,SMB,350,3400000,Active,2020-06-01,2021-10-31,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000152,Zenith Analytics,AMER,Canada,Technology,SMB,350,3400000,Active,2020-06-01,2021-10-31,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000153,Vortex Intelligence,APJ,Singapore,Retail & E-commerce,SMB,375,1500000,Active,2020-06-02,2021-11-02,Risk & Compliance,Neo Parker,Hiroshi Tanaka
+ACC-000154,Phoenix Partners,AMER,United States,Manufacturing,SMB,400,3800000,Active,2020-06-03,2021-11-04,Operational Analytics,Parker Allen,David Thompson
+ACC-000155,Titan Associates,APJ,Japan,Media & Entertainment,SMB,425,1700000,Active,2020-06-04,2021-11-06,Data Science Platform,Zara Collins,Priya Sharma
+ACC-000155,Titan Associates,APJ,Japan,Media & Entertainment,SMB,425,1700000,Active,2020-06-04,2021-11-06,Data Science Platform,Zen Phillips,Hiroshi Tanaka
+ACC-000157,Vertex Services,EMEA,United Kingdom,Energy & Utilities,SMB,475,1850000,Active,2020-06-06,2021-11-10,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000157,Vertex Services,EMEA,United Kingdom,Energy & Utilities,SMB,475,1850000,Active,2020-06-06,2021-11-10,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000157,Vertex Services,EMEA,United Kingdom,Energy & Utilities,SMB,475,1850000,Active,2020-06-06,2021-11-10,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000157,Vertex Services,EMEA,United Kingdom,Energy & Utilities,SMB,475,1850000,Active,2020-06-06,2021-11-10,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000160,Global Solutions,AMER,United States,Transportation & Logistics,SMB,50,1000000,New,2020-06-09,2021-11-16,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000162,Catalyst Associates,APJ,Japan,Insurance,SMB,100,1200000,At Risk,2020-06-11,2021-11-20,Financial Analytics,Zara Collins,Priya Sharma
+ACC-000162,Catalyst Associates,APJ,Japan,Insurance,SMB,100,1200000,At Risk,2020-06-11,2021-11-20,Financial Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000164,Zenith Services,AMER,Mexico,Professional Services,SMB,150,1800000,Active,2020-06-13,2021-11-24,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000167,Titan Intelligence,AMER,United States,Technology,SMB,225,2400000,Active,2020-06-16,2021-11-30,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000167,Titan Intelligence,AMER,United States,Technology,SMB,225,2400000,Active,2020-06-16,2021-11-30,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000168,Nexus Partners,AMER,Canada,Retail & E-commerce,SMB,250,2600000,Active,2020-06-17,2021-12-02,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000168,Nexus Partners,AMER,Canada,Retail & E-commerce,SMB,250,2600000,Active,2020-06-17,2021-12-02,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000169,Vertex Associates,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-06-18,2021-12-04,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000169,Vertex Associates,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-06-18,2021-12-04,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000169,Vertex Associates,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-06-18,2021-12-04,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000169,Vertex Associates,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-06-18,2021-12-04,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000170,Apex Consulting,EMEA,Spain,Media & Entertainment,SMB,300,1550000,Active,2020-06-19,2021-12-06,Real-time Analytics,Rain Carter,James Mueller
+ACC-000170,Apex Consulting,EMEA,Spain,Media & Entertainment,SMB,300,1550000,Active,2020-06-19,2021-12-06,Real-time Analytics,River Scott,Lisa Wang
+ACC-000170,Apex Consulting,EMEA,Spain,Media & Entertainment,SMB,300,1550000,Active,2020-06-19,2021-12-06,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000171,Matrix Services,AMER,Mexico,Telecommunications,SMB,325,3200000,Active,2020-06-20,2021-12-08,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000172,Quantum Solutions,AMER,Canada,Energy & Utilities,SMB,350,3400000,Active,2020-06-21,2021-12-10,Customer 360,Parker Allen,David Thompson
+ACC-000173,Synergy Analytics,LATAM,Chile,Government & Public Sector,SMB,375,640000,Active,2020-06-22,2021-12-12,IoT Analytics,Rio Rogers,Carlos Silva
+ACC-000173,Synergy Analytics,LATAM,Chile,Government & Public Sector,SMB,375,640000,Active,2020-06-22,2021-12-12,IoT Analytics,Cruz Morris,Carlos Silva
+ACC-000174,Catalyst Intelligence,EMEA,United Kingdom,Education,SMB,400,2150000,Active,2020-06-23,2021-12-14,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000175,Pinnacle Partners,LATAM,Argentina,Transportation & Logistics,SMB,425,800000,Active,2020-06-24,2021-12-16,Marketing Analytics,Vale Sanchez,Carlos Silva
+ACC-000176,Zenith Associates,EMEA,France,Real Estate,SMB,450,2450000,Active,2020-06-25,2021-12-18,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000181,Sigma Inc,LATAM,Chile,Healthcare & Life Sciences,SMB,75,480000,Churned,2020-06-30,2021-12-28,Machine Learning & AI,Vale Sanchez,Carlos Silva
+ACC-000182,Apex Partners,EMEA,Netherlands,Technology,SMB,100,1100000,At Risk,2020-07-01,2021-12-30,Real-time Analytics,Rain Carter,James Mueller
+ACC-000182,Apex Partners,EMEA,Netherlands,Technology,SMB,100,1100000,At Risk,2020-07-01,2021-12-30,Real-time Analytics,River Scott,Lisa Wang
+ACC-000182,Apex Partners,EMEA,Netherlands,Technology,SMB,100,1100000,At Risk,2020-07-01,2021-12-30,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000183,Matrix Associates,AMER,United States,Retail & E-commerce,SMB,125,1600000,Active,2020-07-02,2022-01-01,Data Engineering,Emery Young,David Thompson
+ACC-000184,Quantum Consulting,EMEA,United Kingdom,Manufacturing,SMB,150,1400000,Active,2020-07-03,2022-01-03,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000185,Synergy Services,EMEA,Sweden,Media & Entertainment,SMB,175,1550000,Active,2020-07-04,2022-01-05,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000185,Synergy Services,EMEA,Sweden,Media & Entertainment,SMB,175,1550000,Active,2020-07-04,2022-01-05,IoT Analytics,Ocean Baker,James Mueller
+ACC-000186,Catalyst Solutions,EMEA,United Kingdom,Telecommunications,SMB,200,1700000,Active,2020-07-05,2022-01-07,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000187,Pinnacle Analytics,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2020-07-06,2022-01-09,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000187,Pinnacle Analytics,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2020-07-06,2022-01-09,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000187,Pinnacle Analytics,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2020-07-06,2022-01-09,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000187,Pinnacle Analytics,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2020-07-06,2022-01-09,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000188,Zenith Intelligence,AMER,Canada,Government & Public Sector,SMB,250,2600000,Active,2020-07-07,2022-01-11,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000188,Zenith Intelligence,AMER,Canada,Government & Public Sector,SMB,250,2600000,Active,2020-07-07,2022-01-11,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000190,Phoenix Associates,AMER,Canada,Transportation & Logistics,SMB,300,3000000,Active,2020-07-09,2022-01-15,Operational Analytics,Parker Allen,David Thompson
+ACC-000193,Vertex Solutions,AMER,United States,Automotive,SMB,375,3600000,Active,2020-07-12,2022-01-21,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000196,Quantum Partners,AMER,Canada,Healthcare & Life Sciences,SMB,450,4200000,Active,2020-07-15,2022-01-27,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000197,Synergy Associates,EMEA,Germany,Technology,SMB,475,1100000,Active,2020-07-16,2022-01-29,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000197,Synergy Associates,EMEA,Germany,Technology,SMB,475,1100000,Active,2020-07-16,2022-01-29,IoT Analytics,Ocean Baker,James Mueller
+ACC-000198,Catalyst Consulting,AMER,Mexico,Retail & E-commerce,SMB,500,4600000,Active,2020-07-17,2022-01-31,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000200,Global Solutions,AMER,United States,Media & Entertainment,Enterprise,5000,100000000,New,2020-07-19,2022-02-04,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000201,Beta Ltd,AMER,United States,Telecommunications,Enterprise,5500,110000000,Churned,2020-07-20,2022-02-06,Risk & Compliance,Emery Young,David Thompson
+ACC-000204,Nexus Associates,AMER,United States,Education,Enterprise,7000,140000000,Active,2020-07-23,2022-02-12,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000204,Nexus Associates,AMER,United States,Education,Enterprise,7000,140000000,Active,2020-07-23,2022-02-12,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000205,Vertex Consulting,EMEA,Netherlands,Transportation & Logistics,Enterprise,7500,120000000,Active,2020-07-24,2022-02-14,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000205,Vertex Consulting,EMEA,Netherlands,Transportation & Logistics,Enterprise,7500,120000000,Active,2020-07-24,2022-02-14,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000205,Vertex Consulting,EMEA,Netherlands,Transportation & Logistics,Enterprise,7500,120000000,Active,2020-07-24,2022-02-14,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000205,Vertex Consulting,EMEA,Netherlands,Transportation & Logistics,Enterprise,7500,120000000,Active,2020-07-24,2022-02-14,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000206,Apex Services,EMEA,Germany,Real Estate,Enterprise,8000,128000000,Active,2020-07-25,2022-02-16,Real-time Analytics,Rain Carter,James Mueller
+ACC-000206,Apex Services,EMEA,Germany,Real Estate,Enterprise,8000,128000000,Active,2020-07-25,2022-02-16,Real-time Analytics,River Scott,Lisa Wang
+ACC-000206,Apex Services,EMEA,Germany,Real Estate,Enterprise,8000,128000000,Active,2020-07-25,2022-02-16,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000207,Matrix Solutions,AMER,United States,Insurance,Enterprise,8500,170000000,Active,2020-07-26,2022-02-18,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000208,Quantum Analytics,EMEA,France,Automotive,Enterprise,9000,144000000,Active,2020-07-27,2022-02-20,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000209,Synergy Intelligence,EMEA,Netherlands,Professional Services,Enterprise,9500,152000000,Active,2020-07-28,2022-02-22,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000209,Synergy Intelligence,EMEA,Netherlands,Professional Services,Enterprise,9500,152000000,Active,2020-07-28,2022-02-22,IoT Analytics,Ocean Baker,James Mueller
+ACC-000211,Pinnacle Associates,AMER,Canada,Healthcare & Life Sciences,Enterprise,10500,210000000,Active,2020-07-30,2022-02-26,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000214,Phoenix Solutions,AMER,Mexico,Manufacturing,Enterprise,12000,240000000,Active,2020-08-02,2022-03-04,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000218,Apex Associates,AMER,Canada,Government & Public Sector,Mid-Market,1300,26000000,Active,2020-08-06,2022-03-12,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000219,Matrix Consulting,AMER,United States,Education,Mid-Market,1400,28000000,Active,2020-08-07,2022-03-14,Data Engineering,Emery Young,David Thompson
+ACC-000220,Global Industries,AMER,United States,Transportation & Logistics,Mid-Market,1500,30000000,New,2020-08-08,2022-03-16,Customer 360,Drew Garcia,Michael Chen
+ACC-000221,Sigma Holdings,AMER,Canada,Real Estate,Mid-Market,1600,32000000,Churned,2020-08-09,2022-03-18,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000221,Sigma Holdings,AMER,Canada,Real Estate,Mid-Market,1600,32000000,Churned,2020-08-09,2022-03-18,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000222,Catalyst Analytics,AMER,Canada,Insurance,Mid-Market,1700,34000000,At Risk,2020-08-10,2022-03-20,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000222,Catalyst Analytics,AMER,Canada,Insurance,Mid-Market,1700,34000000,At Risk,2020-08-10,2022-03-20,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000223,Pinnacle Intelligence,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-08-11,2022-03-22,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000223,Pinnacle Intelligence,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-08-11,2022-03-22,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000223,Pinnacle Intelligence,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-08-11,2022-03-22,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000223,Pinnacle Intelligence,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2020-08-11,2022-03-22,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000224,Zenith Partners,AMER,United States,Professional Services,Mid-Market,1900,38000000,Active,2020-08-12,2022-03-24,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000224,Zenith Partners,AMER,United States,Professional Services,Mid-Market,1900,38000000,Active,2020-08-12,2022-03-24,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000225,Vortex Associates,AMER,United States,Financial Services,Mid-Market,2000,40000000,Active,2020-08-13,2022-03-26,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000226,Phoenix Consulting,APJ,Singapore,Healthcare & Life Sciences,Mid-Market,2100,12000000,Active,2020-08-14,2022-03-28,Operational Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000229,Vertex Analytics,EMEA,Spain,Manufacturing,Mid-Market,2400,14000000,Active,2020-08-17,2022-04-03,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000229,Vertex Analytics,EMEA,Spain,Manufacturing,Mid-Market,2400,14000000,Active,2020-08-17,2022-04-03,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000229,Vertex Analytics,EMEA,Spain,Manufacturing,Mid-Market,2400,14000000,Active,2020-08-17,2022-04-03,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000229,Vertex Analytics,EMEA,Spain,Manufacturing,Mid-Market,2400,14000000,Active,2020-08-17,2022-04-03,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000232,Quantum Associates,EMEA,Spain,Energy & Utilities,Mid-Market,2700,18500000,Active,2020-08-20,2022-04-09,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000234,Catalyst Services,AMER,United States,Education,Mid-Market,2900,58000000,Active,2020-08-22,2022-04-13,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000236,Zenith Analytics,AMER,Canada,Real Estate,Mid-Market,3100,62000000,Active,2020-08-24,2022-04-17,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000237,Vortex Intelligence,AMER,United States,Insurance,Mid-Market,3200,64000000,Active,2020-08-25,2022-04-19,Risk & Compliance,Emery Young,David Thompson
+ACC-000238,Phoenix Partners,AMER,United States,Automotive,Mid-Market,3300,66000000,Active,2020-08-26,2022-04-21,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000240,Global Solutions,APJ,South Korea,Financial Services,Mid-Market,500,6000000,New,2020-08-28,2022-04-25,Data Analytics & BI,Kai Campbell,Hiroshi Tanaka
+ACC-000241,Beta Inc,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Churned,2020-08-29,2022-04-27,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000241,Beta Inc,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Churned,2020-08-29,2022-04-27,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000241,Beta Inc,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Churned,2020-08-29,2022-04-27,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000241,Beta Inc,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Churned,2020-08-29,2022-04-27,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000242,Apex Solutions,EMEA,Sweden,Technology,Mid-Market,700,33500000,At Risk,2020-08-30,2022-04-29,Real-time Analytics,Rain Carter,James Mueller
+ACC-000242,Apex Solutions,EMEA,Sweden,Technology,Mid-Market,700,33500000,At Risk,2020-08-30,2022-04-29,Real-time Analytics,River Scott,Lisa Wang
+ACC-000242,Apex Solutions,EMEA,Sweden,Technology,Mid-Market,700,33500000,At Risk,2020-08-30,2022-04-29,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000243,Matrix Analytics,AMER,United States,Retail & E-commerce,Mid-Market,800,16000000,Active,2020-08-31,2022-05-01,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000244,Quantum Intelligence,AMER,United States,Manufacturing,Mid-Market,900,18000000,Active,2020-09-01,2022-05-03,Customer 360,Parker Allen,David Thompson
+ACC-000245,Synergy Partners,LATAM,Chile,Media & Entertainment,Mid-Market,1000,8000000,Active,2020-09-02,2022-05-05,IoT Analytics,Rio Rogers,Carlos Silva
+ACC-000245,Synergy Partners,LATAM,Chile,Media & Entertainment,Mid-Market,1000,8000000,Active,2020-09-02,2022-05-05,IoT Analytics,Cruz Morris,Carlos Silva
+ACC-000247,Pinnacle Consulting,APJ,Japan,Energy & Utilities,SMB,225,1300000,Active,2020-09-04,2022-05-09,Marketing Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000250,Phoenix Analytics,AMER,Canada,Transportation & Logistics,SMB,300,3000000,Active,2020-09-07,2022-05-15,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000252,Nexus Partners,AMER,United States,Insurance,SMB,350,3400000,Active,2020-09-09,2022-05-19,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000253,Vertex Associates,APJ,Japan,Automotive,SMB,375,700000,Active,2020-09-10,2022-05-21,Machine Learning & AI,Zara Collins,Priya Sharma
+ACC-000253,Vertex Associates,APJ,Japan,Automotive,SMB,375,700000,Active,2020-09-10,2022-05-21,Machine Learning & AI,Zen Phillips,Hiroshi Tanaka
+ACC-000254,Apex Consulting,AMER,United States,Professional Services,SMB,400,3800000,Active,2020-09-11,2022-05-23,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000256,Quantum Solutions,EMEA,Netherlands,Healthcare & Life Sciences,SMB,450,950000,Active,2020-09-13,2022-05-27,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000257,Synergy Analytics,APJ,South Korea,Technology,SMB,475,1100000,Active,2020-09-14,2022-05-29,IoT Analytics,Atlas Edwards,Priya Sharma
+ACC-000257,Synergy Analytics,APJ,South Korea,Technology,SMB,475,1100000,Active,2020-09-14,2022-05-29,IoT Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000258,Catalyst Intelligence,EMEA,Germany,Retail & E-commerce,SMB,500,1250000,Active,2020-09-15,2022-05-31,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000260,Global Industries,EMEA,Germany,Media & Entertainment,SMB,50,1550000,New,2020-09-17,2022-06-04,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000261,Sigma Ltd,AMER,United States,Telecommunications,SMB,75,1200000,Churned,2020-09-18,2022-06-06,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000265,Vertex Intelligence,EMEA,Netherlands,Transportation & Logistics,SMB,175,2300000,Active,2020-09-22,2022-06-14,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000265,Vertex Intelligence,EMEA,Netherlands,Transportation & Logistics,SMB,175,2300000,Active,2020-09-22,2022-06-14,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000265,Vertex Intelligence,EMEA,Netherlands,Transportation & Logistics,SMB,175,2300000,Active,2020-09-22,2022-06-14,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000265,Vertex Intelligence,EMEA,Netherlands,Transportation & Logistics,SMB,175,2300000,Active,2020-09-22,2022-06-14,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000266,Apex Partners,EMEA,Germany,Real Estate,SMB,200,2450000,Active,2020-09-23,2022-06-16,Real-time Analytics,Rain Carter,James Mueller
+ACC-000266,Apex Partners,EMEA,Germany,Real Estate,SMB,200,2450000,Active,2020-09-23,2022-06-16,Real-time Analytics,River Scott,Lisa Wang
+ACC-000266,Apex Partners,EMEA,Germany,Real Estate,SMB,200,2450000,Active,2020-09-23,2022-06-16,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000268,Quantum Consulting,LATAM,Argentina,Automotive,SMB,250,1040000,Active,2020-09-25,2022-06-20,Customer 360,Vale Sanchez,Carlos Silva
+ACC-000270,Catalyst Solutions,AMER,United States,Financial Services,SMB,300,3000000,Active,2020-09-27,2022-06-24,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000272,Zenith Intelligence,EMEA,Spain,Technology,SMB,350,1100000,Active,2020-09-29,2022-06-28,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000274,Phoenix Associates,APJ,Australia,Manufacturing,SMB,400,1600000,Active,2020-10-01,2022-07-02,Operational Analytics,Zara Collins,Priya Sharma
+ACC-000274,Phoenix Associates,APJ,Australia,Manufacturing,SMB,400,1600000,Active,2020-10-01,2022-07-02,Operational Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000275,Titan Consulting,AMER,Canada,Media & Entertainment,SMB,425,4000000,Active,2020-10-02,2022-07-04,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000275,Titan Consulting,AMER,Canada,Media & Entertainment,SMB,425,4000000,Active,2020-10-02,2022-07-04,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000277,Vertex Solutions,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2020-10-04,2022-07-08,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000277,Vertex Solutions,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2020-10-04,2022-07-08,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000277,Vertex Solutions,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2020-10-04,2022-07-08,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000277,Vertex Solutions,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2020-10-04,2022-07-08,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000278,Apex Analytics,EMEA,United Kingdom,Government & Public Sector,SMB,500,2000000,Active,2020-10-05,2022-07-10,Real-time Analytics,Rain Carter,James Mueller
+ACC-000278,Apex Analytics,EMEA,United Kingdom,Government & Public Sector,SMB,500,2000000,Active,2020-10-05,2022-07-10,Real-time Analytics,River Scott,Lisa Wang
+ACC-000278,Apex Analytics,EMEA,United Kingdom,Government & Public Sector,SMB,500,2000000,Active,2020-10-05,2022-07-10,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000279,Matrix Intelligence,AMER,United States,Education,SMB,525,4800000,Active,2020-10-06,2022-07-12,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000280,Global Solutions,EMEA,United Kingdom,Transportation & Logistics,SMB,50,2300000,New,2020-10-07,2022-07-14,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000281,Beta Holdings,EMEA,France,Real Estate,SMB,75,2450000,Churned,2020-10-08,2022-07-16,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000281,Beta Holdings,EMEA,France,Real Estate,SMB,75,2450000,Churned,2020-10-08,2022-07-16,IoT Analytics,Ocean Baker,James Mueller
+ACC-000286,Phoenix Intelligence,AMER,United States,Healthcare & Life Sciences,SMB,200,2200000,Active,2020-10-13,2022-07-26,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000288,Nexus Associates,AMER,Canada,Retail & E-commerce,SMB,250,2600000,Active,2020-10-15,2022-07-30,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000292,Quantum Analytics,EMEA,Spain,Energy & Utilities,SMB,350,1850000,Active,2020-10-19,2022-08-07,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000293,Synergy Intelligence,AMER,United States,Government & Public Sector,SMB,375,3600000,Active,2020-10-20,2022-08-09,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000293,Synergy Intelligence,AMER,United States,Government & Public Sector,SMB,375,3600000,Active,2020-10-20,2022-08-09,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000294,Catalyst Partners,AMER,United States,Education,SMB,400,3800000,Active,2020-10-21,2022-08-11,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000294,Catalyst Partners,AMER,United States,Education,SMB,400,3800000,Active,2020-10-21,2022-08-11,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000295,Pinnacle Associates,APJ,Japan,Transportation & Logistics,SMB,425,1300000,Active,2020-10-22,2022-08-13,Marketing Analytics,Zara Collins,Priya Sharma
+ACC-000295,Pinnacle Associates,APJ,Japan,Transportation & Logistics,SMB,425,1300000,Active,2020-10-22,2022-08-13,Marketing Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000296,Zenith Consulting,APJ,Japan,Real Estate,SMB,450,1400000,Active,2020-10-23,2022-08-15,Supply Chain Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000298,Phoenix Solutions,AMER,Canada,Automotive,SMB,500,4600000,Active,2020-10-25,2022-08-19,Operational Analytics,Parker Allen,David Thompson
+ACC-000301,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Enterprise,5500,248000000,Churned,2020-10-28,2022-08-25,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000301,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Enterprise,5500,248000000,Churned,2020-10-28,2022-08-25,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000301,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Enterprise,5500,248000000,Churned,2020-10-28,2022-08-25,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000301,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Enterprise,5500,248000000,Churned,2020-10-28,2022-08-25,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000304,Quantum Services,AMER,United States,Manufacturing,Enterprise,7000,140000000,Active,2020-10-31,2022-08-31,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000306,Catalyst Analytics,EMEA,United Kingdom,Telecommunications,Enterprise,8000,288000000,Active,2020-11-02,2022-09-04,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000309,Vortex Associates,AMER,United States,Education,Enterprise,9500,190000000,Active,2020-11-05,2022-09-10,Risk & Compliance,Emery Young,David Thompson
+ACC-000310,Phoenix Consulting,AMER,Mexico,Transportation & Logistics,Enterprise,10000,200000000,Active,2020-11-06,2022-09-12,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000312,Nexus Solutions,APJ,Singapore,Insurance,Enterprise,11000,132000000,Active,2020-11-08,2022-09-16,Data Analytics & BI,Iris Stewart,Priya Sharma
+ACC-000313,Vertex Analytics,AMER,Mexico,Automotive,Enterprise,11500,230000000,Active,2020-11-09,2022-09-18,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000313,Vertex Analytics,AMER,Mexico,Automotive,Enterprise,11500,230000000,Active,2020-11-09,2022-09-18,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000313,Vertex Analytics,AMER,Mexico,Automotive,Enterprise,11500,230000000,Active,2020-11-09,2022-09-18,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000313,Vertex Analytics,AMER,Mexico,Automotive,Enterprise,11500,230000000,Active,2020-11-09,2022-09-18,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000314,Apex Intelligence,EMEA,Germany,Professional Services,Enterprise,12000,352000000,Active,2020-11-10,2022-09-20,Real-time Analytics,Rain Carter,James Mueller
+ACC-000314,Apex Intelligence,EMEA,Germany,Professional Services,Enterprise,12000,352000000,Active,2020-11-10,2022-09-20,Real-time Analytics,River Scott,Lisa Wang
+ACC-000314,Apex Intelligence,EMEA,Germany,Professional Services,Enterprise,12000,352000000,Active,2020-11-10,2022-09-20,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000316,Quantum Associates,EMEA,Spain,Healthcare & Life Sciences,Mid-Market,2100,32000000,Active,2020-11-12,2022-09-24,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000319,Pinnacle Solutions,APJ,Japan,Manufacturing,Mid-Market,2400,25000000,Active,2020-11-15,2022-09-30,Marketing Analytics,Iris Stewart,Priya Sharma
+ACC-000320,Global Solutions,EMEA,United Kingdom,Media & Entertainment,Mid-Market,2500,38000000,New,2020-11-16,2022-10-02,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000324,Nexus Consulting,APJ,Japan,Education,Mid-Market,2900,10000000,Active,2020-11-20,2022-10-10,Data Analytics & BI,Kai Campbell,Hiroshi Tanaka
+ACC-000326,Apex Solutions,EMEA,Germany,Real Estate,Mid-Market,3100,9500000,Active,2020-11-22,2022-10-14,Real-time Analytics,Rain Carter,James Mueller
+ACC-000326,Apex Solutions,EMEA,Germany,Real Estate,Mid-Market,3100,9500000,Active,2020-11-22,2022-10-14,Real-time Analytics,River Scott,Lisa Wang
+ACC-000326,Apex Solutions,EMEA,Germany,Real Estate,Mid-Market,3100,9500000,Active,2020-11-22,2022-10-14,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000327,Matrix Analytics,AMER,United States,Insurance,Mid-Market,3200,64000000,Active,2020-11-23,2022-10-16,Data Engineering,Emery Young,David Thompson
+ACC-000328,Quantum Intelligence,AMER,United States,Automotive,Mid-Market,3300,66000000,Active,2020-11-24,2022-10-18,Customer 360,Drew Garcia,Michael Chen
+ACC-000329,Synergy Partners,EMEA,France,Professional Services,Mid-Market,3400,14000000,Active,2020-11-25,2022-10-20,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000329,Synergy Partners,EMEA,France,Professional Services,Mid-Market,3400,14000000,Active,2020-11-25,2022-10-20,IoT Analytics,Ocean Baker,James Mueller
+ACC-000330,Catalyst Associates,AMER,Canada,Financial Services,Mid-Market,500,10000000,Active,2020-11-26,2022-10-22,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000330,Catalyst Associates,AMER,Canada,Financial Services,Mid-Market,500,10000000,Active,2020-11-26,2022-10-22,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000331,Pinnacle Consulting,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Active,2020-11-27,2022-10-24,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000331,Pinnacle Consulting,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Active,2020-11-27,2022-10-24,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000331,Pinnacle Consulting,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Active,2020-11-27,2022-10-24,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000331,Pinnacle Consulting,AMER,United States,Healthcare & Life Sciences,Mid-Market,600,12000000,Active,2020-11-27,2022-10-24,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000332,Zenith Services,AMER,United States,Technology,Mid-Market,700,14000000,Active,2020-11-28,2022-10-26,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000332,Zenith Services,AMER,United States,Technology,Mid-Market,700,14000000,Active,2020-11-28,2022-10-26,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000337,Vertex Associates,AMER,United States,Energy & Utilities,Mid-Market,1200,24000000,Active,2020-12-03,2022-11-05,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000338,Apex Consulting,APJ,Australia,Government & Public Sector,Mid-Market,1300,24000000,Active,2020-12-04,2022-11-07,Real-time Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000340,Global Industries,APJ,South Korea,Transportation & Logistics,Mid-Market,1500,6000000,New,2020-12-06,2022-11-11,Customer 360,Iris Stewart,Priya Sharma
+ACC-000342,Catalyst Intelligence,APJ,Japan,Insurance,Mid-Market,1700,8000000,At Risk,2020-12-08,2022-11-15,Financial Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000344,Zenith Associates,AMER,United States,Professional Services,Mid-Market,1900,38000000,Active,2020-12-10,2022-11-19,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000347,Titan Solutions,AMER,United States,Technology,SMB,225,2400000,Active,2020-12-13,2022-11-25,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000347,Titan Solutions,AMER,United States,Technology,SMB,225,2400000,Active,2020-12-13,2022-11-25,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000349,Vertex Intelligence,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-12-15,2022-11-29,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000349,Vertex Intelligence,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-12-15,2022-11-29,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000349,Vertex Intelligence,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-12-15,2022-11-29,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000349,Vertex Intelligence,AMER,United States,Manufacturing,SMB,275,2800000,Active,2020-12-15,2022-11-29,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000351,Matrix Associates,AMER,United States,Telecommunications,SMB,325,3200000,Active,2020-12-17,2022-12-03,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000352,Quantum Consulting,AMER,United States,Energy & Utilities,SMB,350,3400000,Active,2020-12-18,2022-12-05,Customer 360,Parker Allen,David Thompson
+ACC-000353,Synergy Services,EMEA,United Kingdom,Government & Public Sector,SMB,375,2000000,Active,2020-12-19,2022-12-07,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000353,Synergy Services,EMEA,United Kingdom,Government & Public Sector,SMB,375,2000000,Active,2020-12-19,2022-12-07,IoT Analytics,Ocean Baker,James Mueller
+ACC-000355,Pinnacle Analytics,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2020-12-21,2022-12-11,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000358,Phoenix Associates,AMER,United States,Automotive,SMB,500,4600000,Active,2020-12-24,2022-12-17,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000360,Global Solutions,AMER,United States,Financial Services,SMB,50,1000000,New,2020-12-26,2022-12-21,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000361,Beta Inc,APJ,Australia,Healthcare & Life Sciences,SMB,75,700000,Churned,2020-12-27,2022-12-23,Machine Learning & AI,Iris Stewart,Priya Sharma
+ACC-000362,Apex Analytics,AMER,United States,Technology,SMB,100,1400000,At Risk,2020-12-28,2022-12-25,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000363,Matrix Intelligence,AMER,United States,Retail & E-commerce,SMB,125,1600000,Active,2020-12-29,2022-12-27,Data Engineering,Emery Young,David Thompson
+ACC-000364,Quantum Partners,AMER,United States,Manufacturing,SMB,150,1800000,Active,2020-12-30,2022-12-29,Customer 360,Drew Garcia,Michael Chen
+ACC-000365,Synergy Associates,EMEA,United Kingdom,Media & Entertainment,SMB,175,1550000,Active,2020-12-31,2022-12-31,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000365,Synergy Associates,EMEA,United Kingdom,Media & Entertainment,SMB,175,1550000,Active,2020-12-31,2022-12-31,IoT Analytics,Ocean Baker,James Mueller
+ACC-000366,Catalyst Consulting,EMEA,Sweden,Telecommunications,SMB,200,1700000,Active,2021-01-01,2023-01-02,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000367,Pinnacle Services,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2021-01-02,2023-01-04,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000367,Pinnacle Services,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2021-01-02,2023-01-04,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000367,Pinnacle Services,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2021-01-02,2023-01-04,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000367,Pinnacle Services,AMER,Canada,Energy & Utilities,SMB,225,2400000,Active,2021-01-02,2023-01-04,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000368,Zenith Solutions,EMEA,Netherlands,Government & Public Sector,SMB,250,2000000,Active,2021-01-03,2023-01-06,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000370,Phoenix Intelligence,AMER,Canada,Transportation & Logistics,SMB,300,3000000,Active,2021-01-05,2023-01-10,Operational Analytics,Parker Allen,David Thompson
+ACC-000373,Vertex Consulting,AMER,Canada,Automotive,SMB,375,3600000,Active,2021-01-08,2023-01-16,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000376,Quantum Analytics,AMER,Canada,Healthcare & Life Sciences,SMB,450,4200000,Active,2021-01-11,2023-01-22,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000377,Synergy Intelligence,EMEA,United Kingdom,Technology,SMB,475,1100000,Active,2021-01-12,2023-01-24,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000377,Synergy Intelligence,EMEA,United Kingdom,Technology,SMB,475,1100000,Active,2021-01-12,2023-01-24,IoT Analytics,Ocean Baker,James Mueller
+ACC-000378,Catalyst Partners,AMER,United States,Retail & E-commerce,SMB,500,4600000,Active,2021-01-13,2023-01-26,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000380,Global Industries,APJ,Australia,Media & Entertainment,SMB,50,1400000,New,2021-01-15,2023-01-30,Supply Chain Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000383,Titan Analytics,AMER,United States,Government & Public Sector,SMB,125,1600000,Active,2021-01-18,2023-02-05,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000383,Titan Analytics,AMER,United States,Government & Public Sector,SMB,125,1600000,Active,2021-01-18,2023-02-05,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000384,Nexus Intelligence,AMER,United States,Education,SMB,150,1800000,Active,2021-01-19,2023-02-07,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000384,Nexus Intelligence,AMER,United States,Education,SMB,150,1800000,Active,2021-01-19,2023-02-07,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000386,Apex Associates,LATAM,Argentina,Real Estate,SMB,200,880000,Active,2021-01-21,2023-02-11,Real-time Analytics,Rio Rogers,Carlos Silva
+ACC-000386,Apex Associates,LATAM,Argentina,Real Estate,SMB,200,880000,Active,2021-01-21,2023-02-11,Real-time Analytics,Cruz Morris,Carlos Silva
+ACC-000388,Quantum Services,AMER,United States,Automotive,SMB,250,2600000,Active,2021-01-23,2023-02-15,Customer 360,Parker Allen,David Thompson
+ACC-000389,Synergy Solutions,APJ,Japan,Professional Services,SMB,275,1100000,Active,2021-01-24,2023-02-17,IoT Analytics,Iris Stewart,Priya Sharma
+ACC-000395,Titan Services,LATAM,Argentina,Media & Entertainment,SMB,425,800000,Active,2021-01-30,2023-03-01,Data Science Platform,Rio Rogers,Carlos Silva
+ACC-000395,Titan Services,LATAM,Argentina,Media & Entertainment,SMB,425,800000,Active,2021-01-30,2023-03-01,Data Science Platform,Cruz Morris,Carlos Silva
+ACC-000397,Vertex Analytics,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2021-02-01,2023-03-05,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000397,Vertex Analytics,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2021-02-01,2023-03-05,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000397,Vertex Analytics,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2021-02-01,2023-03-05,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000397,Vertex Analytics,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2021-02-01,2023-03-05,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000398,Apex Intelligence,EMEA,United Kingdom,Government & Public Sector,SMB,500,2000000,Active,2021-02-02,2023-03-07,Real-time Analytics,Rain Carter,James Mueller
+ACC-000398,Apex Intelligence,EMEA,United Kingdom,Government & Public Sector,SMB,500,2000000,Active,2021-02-02,2023-03-07,Real-time Analytics,River Scott,Lisa Wang
+ACC-000398,Apex Intelligence,EMEA,United Kingdom,Government & Public Sector,SMB,500,2000000,Active,2021-02-02,2023-03-07,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000400,Global Solutions,AMER,United States,Transportation & Logistics,Enterprise,5000,100000000,New,2021-02-04,2023-03-11,Customer 360,Drew Garcia,Michael Chen
+ACC-000401,Beta Holdings,EMEA,France,Real Estate,Enterprise,5500,88000000,Churned,2021-02-05,2023-03-13,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000401,Beta Holdings,EMEA,France,Real Estate,Enterprise,5500,88000000,Churned,2021-02-05,2023-03-13,IoT Analytics,Ocean Baker,James Mueller
+ACC-000402,Catalyst Services,EMEA,France,Insurance,Enterprise,6000,96000000,At Risk,2021-02-06,2023-03-15,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000403,Pinnacle Solutions,AMER,United States,Automotive,Enterprise,6500,130000000,Active,2021-02-07,2023-03-17,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000403,Pinnacle Solutions,AMER,United States,Automotive,Enterprise,6500,130000000,Active,2021-02-07,2023-03-17,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000403,Pinnacle Solutions,AMER,United States,Automotive,Enterprise,6500,130000000,Active,2021-02-07,2023-03-17,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000403,Pinnacle Solutions,AMER,United States,Automotive,Enterprise,6500,130000000,Active,2021-02-07,2023-03-17,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000404,Zenith Analytics,AMER,United States,Professional Services,Enterprise,7000,140000000,Active,2021-02-08,2023-03-19,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000404,Zenith Analytics,AMER,United States,Professional Services,Enterprise,7000,140000000,Active,2021-02-08,2023-03-19,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000409,Vertex Services,AMER,United States,Manufacturing,Enterprise,9500,190000000,Active,2021-02-13,2023-03-29,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000412,Quantum Intelligence,AMER,United States,Energy & Utilities,Enterprise,11000,220000000,Active,2021-02-16,2023-04-04,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000414,Catalyst Associates,AMER,United States,Education,Enterprise,12000,240000000,Active,2021-02-18,2023-04-08,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000415,Pinnacle Consulting,APJ,Australia,Transportation & Logistics,Enterprise,12500,210000000,Active,2021-02-19,2023-04-10,Marketing Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000416,Zenith Services,EMEA,Spain,Real Estate,Mid-Market,3100,32000000,Active,2021-02-20,2023-04-12,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000418,Phoenix Analytics,APJ,South Korea,Automotive,Mid-Market,3300,24000000,Active,2021-02-22,2023-04-16,Operational Analytics,Atlas Edwards,Priya Sharma
+ACC-000418,Phoenix Analytics,APJ,South Korea,Automotive,Mid-Market,3300,24000000,Active,2021-02-22,2023-04-16,Operational Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000420,Global Industries,AMER,United States,Financial Services,Mid-Market,500,10000000,New,2021-02-24,2023-04-20,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000420,Global Industries,AMER,United States,Financial Services,Mid-Market,500,10000000,New,2021-02-24,2023-04-20,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000421,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-02-25,2023-04-22,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000421,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-02-25,2023-04-22,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000421,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-02-25,2023-04-22,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000421,Sigma Inc,EMEA,France,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-02-25,2023-04-22,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000422,Apex Consulting,AMER,United States,Technology,Mid-Market,700,14000000,At Risk,2021-02-26,2023-04-24,Real-time Analytics,Reese Lewis,David Thompson
+ACC-000422,Apex Consulting,AMER,United States,Technology,Mid-Market,700,14000000,At Risk,2021-02-26,2023-04-24,Real-time Analytics,Riley Martinez,Michael Chen
+ACC-000424,Quantum Solutions,EMEA,United Kingdom,Manufacturing,Mid-Market,900,44000000,Active,2021-02-28,2023-04-28,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000425,Synergy Analytics,EMEA,Netherlands,Media & Entertainment,Mid-Market,1000,8000000,Active,2021-03-01,2023-04-30,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000425,Synergy Analytics,EMEA,Netherlands,Media & Entertainment,Mid-Market,1000,8000000,Active,2021-03-01,2023-04-30,IoT Analytics,Ocean Baker,James Mueller
+ACC-000426,Catalyst Intelligence,EMEA,Netherlands,Telecommunications,Mid-Market,1100,9500000,Active,2021-03-02,2023-05-02,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000430,Phoenix Services,AMER,United States,Transportation & Logistics,Mid-Market,1500,30000000,Active,2021-03-06,2023-05-10,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000432,Nexus Analytics,AMER,United States,Insurance,Mid-Market,1700,34000000,Active,2021-03-08,2023-05-14,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000433,Vertex Intelligence,LATAM,Chile,Automotive,Mid-Market,1800,14400000,Active,2021-03-09,2023-05-16,Machine Learning & AI,Vale Sanchez,Carlos Silva
+ACC-000434,Apex Partners,EMEA,Germany,Professional Services,Mid-Market,1900,21500000,Active,2021-03-10,2023-05-18,Real-time Analytics,Rain Carter,James Mueller
+ACC-000434,Apex Partners,EMEA,Germany,Professional Services,Mid-Market,1900,21500000,Active,2021-03-10,2023-05-18,Real-time Analytics,River Scott,Lisa Wang
+ACC-000434,Apex Partners,EMEA,Germany,Professional Services,Mid-Market,1900,21500000,Active,2021-03-10,2023-05-18,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000435,Matrix Associates,AMER,United States,Financial Services,Mid-Market,2000,40000000,Active,2021-03-11,2023-05-20,Data Engineering,Emery Young,David Thompson
+ACC-000436,Quantum Consulting,APJ,South Korea,Healthcare & Life Sciences,Mid-Market,2100,22000000,Active,2021-03-12,2023-05-22,Customer 360,Kai Campbell,Hiroshi Tanaka
+ACC-000437,Synergy Services,EMEA,France,Technology,Mid-Market,2200,26000000,Active,2021-03-13,2023-05-24,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000437,Synergy Services,EMEA,France,Technology,Mid-Market,2200,26000000,Active,2021-03-13,2023-05-24,IoT Analytics,Ocean Baker,James Mueller
+ACC-000439,Pinnacle Analytics,AMER,United States,Manufacturing,Mid-Market,2400,48000000,Active,2021-03-15,2023-05-28,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000439,Pinnacle Analytics,AMER,United States,Manufacturing,Mid-Market,2400,48000000,Active,2021-03-15,2023-05-28,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000439,Pinnacle Analytics,AMER,United States,Manufacturing,Mid-Market,2400,48000000,Active,2021-03-15,2023-05-28,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000439,Pinnacle Analytics,AMER,United States,Manufacturing,Mid-Market,2400,48000000,Active,2021-03-15,2023-05-28,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000440,Global Solutions,AMER,Canada,Media & Entertainment,Mid-Market,2500,50000000,New,2021-03-16,2023-05-30,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000440,Global Solutions,AMER,Canada,Media & Entertainment,Mid-Market,2500,50000000,New,2021-03-16,2023-05-30,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000443,Titan Consulting,LATAM,Argentina,Government & Public Sector,Mid-Market,2800,10400000,Active,2021-03-19,2023-06-05,Data Science Platform,Rio Rogers,Carlos Silva
+ACC-000443,Titan Consulting,LATAM,Argentina,Government & Public Sector,Mid-Market,2800,10400000,Active,2021-03-19,2023-06-05,Data Science Platform,Cruz Morris,Carlos Silva
+ACC-000445,Vertex Solutions,EMEA,United Kingdom,Transportation & Logistics,Mid-Market,3000,38000000,Active,2021-03-21,2023-06-09,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000445,Vertex Solutions,EMEA,United Kingdom,Transportation & Logistics,Mid-Market,3000,38000000,Active,2021-03-21,2023-06-09,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000445,Vertex Solutions,EMEA,United Kingdom,Transportation & Logistics,Mid-Market,3000,38000000,Active,2021-03-21,2023-06-09,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000445,Vertex Solutions,EMEA,United Kingdom,Transportation & Logistics,Mid-Market,3000,38000000,Active,2021-03-21,2023-06-09,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000450,Catalyst Consulting,EMEA,United Kingdom,Financial Services,SMB,300,800000,Active,2021-03-26,2023-06-19,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000452,Zenith Solutions,AMER,United States,Technology,SMB,350,3400000,Active,2021-03-28,2023-06-23,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000453,Vortex Analytics,AMER,United States,Retail & E-commerce,SMB,375,3600000,Active,2021-03-29,2023-06-25,Risk & Compliance,Emery Young,David Thompson
+ACC-000455,Titan Partners,AMER,Mexico,Media & Entertainment,SMB,425,4000000,Active,2021-03-31,2023-06-29,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000455,Titan Partners,AMER,Mexico,Media & Entertainment,SMB,425,4000000,Active,2021-03-31,2023-06-29,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000457,Vertex Consulting,AMER,United States,Energy & Utilities,SMB,475,4400000,Active,2021-04-02,2023-07-03,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000457,Vertex Consulting,AMER,United States,Energy & Utilities,SMB,475,4400000,Active,2021-04-02,2023-07-03,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000457,Vertex Consulting,AMER,United States,Energy & Utilities,SMB,475,4400000,Active,2021-04-02,2023-07-03,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000457,Vertex Consulting,AMER,United States,Energy & Utilities,SMB,475,4400000,Active,2021-04-02,2023-07-03,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000458,Apex Services,AMER,United States,Government & Public Sector,SMB,500,4600000,Active,2021-04-03,2023-07-05,Real-time Analytics,Reese Lewis,David Thompson
+ACC-000458,Apex Services,AMER,United States,Government & Public Sector,SMB,500,4600000,Active,2021-04-03,2023-07-05,Real-time Analytics,Riley Martinez,Michael Chen
+ACC-000459,Matrix Solutions,AMER,Canada,Education,SMB,525,4800000,Active,2021-04-04,2023-07-07,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000460,Global Industries,AMER,United States,Transportation & Logistics,SMB,50,1000000,New,2021-04-05,2023-07-09,Customer 360,Parker Allen,David Thompson
+ACC-000462,Catalyst Partners,EMEA,Netherlands,Insurance,SMB,100,2600000,At Risk,2021-04-07,2023-07-13,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000468,Nexus Intelligence,AMER,United States,Retail & E-commerce,SMB,250,2600000,Active,2021-04-13,2023-07-25,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000470,Apex Associates,EMEA,Germany,Media & Entertainment,SMB,300,1550000,Active,2021-04-15,2023-07-29,Real-time Analytics,Rain Carter,James Mueller
+ACC-000470,Apex Associates,EMEA,Germany,Media & Entertainment,SMB,300,1550000,Active,2021-04-15,2023-07-29,Real-time Analytics,River Scott,Lisa Wang
+ACC-000470,Apex Associates,EMEA,Germany,Media & Entertainment,SMB,300,1550000,Active,2021-04-15,2023-07-29,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000472,Quantum Services,AMER,Mexico,Energy & Utilities,SMB,350,3400000,Active,2021-04-17,2023-08-02,Customer 360,Drew Garcia,Michael Chen
+ACC-000473,Synergy Solutions,AMER,United States,Government & Public Sector,SMB,375,3600000,Active,2021-04-18,2023-08-04,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000473,Synergy Solutions,AMER,United States,Government & Public Sector,SMB,375,3600000,Active,2021-04-18,2023-08-04,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000474,Catalyst Analytics,EMEA,United Kingdom,Education,SMB,400,2150000,Active,2021-04-19,2023-08-06,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000475,Pinnacle Intelligence,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-04-20,2023-08-08,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000475,Pinnacle Intelligence,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-04-20,2023-08-08,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000475,Pinnacle Intelligence,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-04-20,2023-08-08,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000475,Pinnacle Intelligence,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-04-20,2023-08-08,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000476,Zenith Partners,EMEA,France,Real Estate,SMB,450,2450000,Active,2021-04-21,2023-08-10,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000477,Vortex Associates,AMER,United States,Insurance,SMB,475,4400000,Active,2021-04-22,2023-08-12,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000478,Phoenix Consulting,APJ,Japan,Automotive,SMB,500,1600000,Active,2021-04-23,2023-08-14,Operational Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000481,Beta Inc,AMER,United States,Healthcare & Life Sciences,SMB,75,1200000,Churned,2021-04-26,2023-08-20,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000484,Quantum Associates,AMER,Canada,Manufacturing,SMB,150,1800000,Active,2021-04-29,2023-08-26,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000486,Catalyst Services,AMER,Canada,Telecommunications,SMB,200,2200000,Active,2021-05-01,2023-08-30,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000488,Zenith Analytics,AMER,Canada,Government & Public Sector,SMB,250,2600000,Active,2021-05-03,2023-09-03,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000489,Vortex Intelligence,AMER,United States,Education,SMB,275,2800000,Active,2021-05-04,2023-09-05,Risk & Compliance,Emery Young,David Thompson
+ACC-000491,Titan Associates,APJ,Australia,Real Estate,SMB,325,1700000,Active,2021-05-06,2023-09-09,Data Science Platform,Zara Collins,Priya Sharma
+ACC-000491,Titan Associates,APJ,Australia,Real Estate,SMB,325,1700000,Active,2021-05-06,2023-09-09,Data Science Platform,Zen Phillips,Hiroshi Tanaka
+ACC-000492,Nexus Consulting,AMER,United States,Insurance,SMB,350,3400000,Active,2021-05-07,2023-09-11,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000492,Nexus Consulting,AMER,United States,Insurance,SMB,350,3400000,Active,2021-05-07,2023-09-11,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000493,Vertex Services,EMEA,France,Automotive,SMB,375,2750000,Active,2021-05-08,2023-09-13,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000493,Vertex Services,EMEA,France,Automotive,SMB,375,2750000,Active,2021-05-08,2023-09-13,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000493,Vertex Services,EMEA,France,Automotive,SMB,375,2750000,Active,2021-05-08,2023-09-13,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000493,Vertex Services,EMEA,France,Automotive,SMB,375,2750000,Active,2021-05-08,2023-09-13,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000494,Apex Solutions,EMEA,France,Professional Services,SMB,400,2900000,Active,2021-05-09,2023-09-15,Real-time Analytics,Rain Carter,James Mueller
+ACC-000494,Apex Solutions,EMEA,France,Professional Services,SMB,400,2900000,Active,2021-05-09,2023-09-15,Real-time Analytics,River Scott,Lisa Wang
+ACC-000494,Apex Solutions,EMEA,France,Professional Services,SMB,400,2900000,Active,2021-05-09,2023-09-15,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000496,Quantum Intelligence,AMER,United States,Healthcare & Life Sciences,SMB,450,4200000,Active,2021-05-11,2023-09-19,Customer 360,Parker Allen,David Thompson
+ACC-000502,Phoenix Analytics,APJ,Japan,Energy & Utilities,Enterprise,6000,192000000,At Risk,2021-05-17,2023-10-01,Operational Analytics,Atlas Edwards,Priya Sharma
+ACC-000502,Phoenix Analytics,APJ,Japan,Energy & Utilities,Enterprise,6000,192000000,At Risk,2021-05-17,2023-10-01,Operational Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000505,Vertex Associates,EMEA,United Kingdom,Transportation & Logistics,Enterprise,7500,280000000,Active,2021-05-20,2023-10-07,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000505,Vertex Associates,EMEA,United Kingdom,Transportation & Logistics,Enterprise,7500,280000000,Active,2021-05-20,2023-10-07,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000505,Vertex Associates,EMEA,United Kingdom,Transportation & Logistics,Enterprise,7500,280000000,Active,2021-05-20,2023-10-07,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000505,Vertex Associates,EMEA,United Kingdom,Transportation & Logistics,Enterprise,7500,280000000,Active,2021-05-20,2023-10-07,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000506,Apex Consulting,APJ,Singapore,Real Estate,Enterprise,8000,216000000,Active,2021-05-21,2023-10-09,Real-time Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000507,Matrix Services,AMER,United States,Insurance,Enterprise,8500,170000000,Active,2021-05-22,2023-10-11,Data Engineering,Emery Young,David Thompson
+ACC-000508,Quantum Solutions,APJ,Singapore,Automotive,Enterprise,9000,228000000,Active,2021-05-23,2023-10-13,Customer 360,Iris Stewart,Priya Sharma
+ACC-000509,Synergy Analytics,AMER,United States,Professional Services,Enterprise,9500,190000000,Active,2021-05-24,2023-10-15,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000509,Synergy Analytics,AMER,United States,Professional Services,Enterprise,9500,190000000,Active,2021-05-24,2023-10-15,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000510,Catalyst Intelligence,AMER,United States,Financial Services,Enterprise,10000,200000000,Active,2021-05-25,2023-10-17,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000510,Catalyst Intelligence,AMER,United States,Financial Services,Enterprise,10000,200000000,Active,2021-05-25,2023-10-17,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000511,Pinnacle Partners,AMER,United States,Healthcare & Life Sciences,Enterprise,10500,210000000,Active,2021-05-26,2023-10-19,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000511,Pinnacle Partners,AMER,United States,Healthcare & Life Sciences,Enterprise,10500,210000000,Active,2021-05-26,2023-10-19,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000511,Pinnacle Partners,AMER,United States,Healthcare & Life Sciences,Enterprise,10500,210000000,Active,2021-05-26,2023-10-19,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000511,Pinnacle Partners,AMER,United States,Healthcare & Life Sciences,Enterprise,10500,210000000,Active,2021-05-26,2023-10-19,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000512,Zenith Associates,AMER,United States,Technology,Enterprise,11000,220000000,Active,2021-05-27,2023-10-21,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000512,Zenith Associates,AMER,United States,Technology,Enterprise,11000,220000000,Active,2021-05-27,2023-10-21,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000513,Vortex Consulting,APJ,Singapore,Retail & E-commerce,Enterprise,11500,78000000,Active,2021-05-28,2023-10-23,Risk & Compliance,Kai Campbell,Hiroshi Tanaka
+ACC-000517,Vertex Intelligence,APJ,Japan,Energy & Utilities,Mid-Market,1200,23000000,Active,2021-06-01,2023-10-31,Machine Learning & AI,Neo Parker,Hiroshi Tanaka
+ACC-000518,Apex Partners,EMEA,Sweden,Government & Public Sector,Mid-Market,1300,35000000,Active,2021-06-02,2023-11-02,Real-time Analytics,Rain Carter,James Mueller
+ACC-000518,Apex Partners,EMEA,Sweden,Government & Public Sector,Mid-Market,1300,35000000,Active,2021-06-02,2023-11-02,Real-time Analytics,River Scott,Lisa Wang
+ACC-000518,Apex Partners,EMEA,Sweden,Government & Public Sector,Mid-Market,1300,35000000,Active,2021-06-02,2023-11-02,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000520,Global Solutions,EMEA,France,Transportation & Logistics,Mid-Market,1500,38000000,New,2021-06-04,2023-11-06,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000522,Catalyst Solutions,APJ,Japan,Insurance,Mid-Market,1700,8000000,At Risk,2021-06-06,2023-11-10,Financial Analytics,Iris Stewart,Priya Sharma
+ACC-000524,Zenith Intelligence,APJ,Australia,Professional Services,Mid-Market,1900,10000000,Active,2021-06-08,2023-11-14,Supply Chain Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000525,Vortex Partners,AMER,United States,Financial Services,Mid-Market,2000,40000000,Active,2021-06-09,2023-11-16,Risk & Compliance,Emery Young,David Thompson
+ACC-000526,Phoenix Associates,AMER,United States,Healthcare & Life Sciences,Mid-Market,2100,42000000,Active,2021-06-10,2023-11-18,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000527,Titan Consulting,AMER,Canada,Technology,Mid-Market,2200,44000000,Active,2021-06-11,2023-11-20,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000527,Titan Consulting,AMER,Canada,Technology,Mid-Market,2200,44000000,Active,2021-06-11,2023-11-20,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000529,Vertex Solutions,APJ,Australia,Manufacturing,Mid-Market,2400,15000000,Active,2021-06-13,2023-11-24,Machine Learning & AI,Iris Stewart,Priya Sharma
+ACC-000530,Apex Analytics,APJ,South Korea,Media & Entertainment,Mid-Market,2500,16000000,Active,2021-06-14,2023-11-26,Real-time Analytics,Atlas Edwards,Priya Sharma
+ACC-000530,Apex Analytics,APJ,South Korea,Media & Entertainment,Mid-Market,2500,16000000,Active,2021-06-14,2023-11-26,Real-time Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000531,Matrix Intelligence,AMER,Canada,Telecommunications,Mid-Market,2600,52000000,Active,2021-06-15,2023-11-28,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000532,Quantum Partners,EMEA,Spain,Energy & Utilities,Mid-Market,2700,18500000,Active,2021-06-16,2023-11-30,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000536,Zenith Solutions,EMEA,Spain,Real Estate,Mid-Market,3100,24500000,Active,2021-06-20,2023-12-08,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000538,Phoenix Intelligence,APJ,Japan,Automotive,Mid-Market,3300,24000000,Active,2021-06-22,2023-12-12,Operational Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000540,Global Industries,AMER,United States,Financial Services,Mid-Market,500,10000000,New,2021-06-24,2023-12-16,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000542,Apex Services,EMEA,Netherlands,Technology,Mid-Market,700,33500000,At Risk,2021-06-26,2023-12-20,Real-time Analytics,Rain Carter,James Mueller
+ACC-000542,Apex Services,EMEA,Netherlands,Technology,Mid-Market,700,33500000,At Risk,2021-06-26,2023-12-20,Real-time Analytics,River Scott,Lisa Wang
+ACC-000542,Apex Services,EMEA,Netherlands,Technology,Mid-Market,700,33500000,At Risk,2021-06-26,2023-12-20,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000543,Matrix Solutions,APJ,Japan,Retail & E-commerce,Mid-Market,800,9000000,Active,2021-06-27,2023-12-22,Data Engineering,Iris Stewart,Priya Sharma
+ACC-000544,Quantum Analytics,LATAM,Chile,Manufacturing,Mid-Market,900,7200000,Active,2021-06-28,2023-12-24,Customer 360,Vale Sanchez,Carlos Silva
+ACC-000545,Synergy Intelligence,EMEA,Netherlands,Media & Entertainment,Mid-Market,1000,38000000,Active,2021-06-29,2023-12-26,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000545,Synergy Intelligence,EMEA,Netherlands,Media & Entertainment,Mid-Market,1000,38000000,Active,2021-06-29,2023-12-26,IoT Analytics,Ocean Baker,James Mueller
+ACC-000546,Catalyst Partners,AMER,United States,Telecommunications,SMB,200,2200000,Active,2021-06-30,2023-12-28,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000546,Catalyst Partners,AMER,United States,Telecommunications,SMB,200,2200000,Active,2021-06-30,2023-12-28,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000547,Pinnacle Associates,AMER,United States,Energy & Utilities,SMB,225,2400000,Active,2021-07-01,2023-12-30,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000547,Pinnacle Associates,AMER,United States,Energy & Utilities,SMB,225,2400000,Active,2021-07-01,2023-12-30,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000547,Pinnacle Associates,AMER,United States,Energy & Utilities,SMB,225,2400000,Active,2021-07-01,2023-12-30,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000547,Pinnacle Associates,AMER,United States,Energy & Utilities,SMB,225,2400000,Active,2021-07-01,2023-12-30,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000548,Zenith Consulting,AMER,Mexico,Government & Public Sector,SMB,250,2600000,Active,2021-07-02,2024-01-01,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000548,Zenith Consulting,AMER,Mexico,Government & Public Sector,SMB,250,2600000,Active,2021-07-02,2024-01-01,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000549,Vortex Services,AMER,United States,Education,SMB,275,2800000,Active,2021-07-03,2024-01-03,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000552,Nexus Intelligence,APJ,Australia,Insurance,SMB,350,600000,Active,2021-07-06,2024-01-09,Data Analytics & BI,Neo Parker,Hiroshi Tanaka
+ACC-000553,Vertex Partners,AMER,United States,Automotive,SMB,375,3600000,Active,2021-07-07,2024-01-11,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000557,Synergy Solutions,EMEA,Germany,Technology,SMB,475,1100000,Active,2021-07-11,2024-01-19,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000557,Synergy Solutions,EMEA,Germany,Technology,SMB,475,1100000,Active,2021-07-11,2024-01-19,IoT Analytics,Ocean Baker,James Mueller
+ACC-000558,Catalyst Analytics,EMEA,France,Retail & E-commerce,SMB,500,1250000,Active,2021-07-12,2024-01-21,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000561,Beta Ltd,AMER,Canada,Telecommunications,SMB,75,1200000,Churned,2021-07-15,2024-01-27,Risk & Compliance,Emery Young,David Thompson
+ACC-000563,Titan Services,AMER,United States,Government & Public Sector,SMB,125,1600000,Active,2021-07-17,2024-01-31,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000563,Titan Services,AMER,United States,Government & Public Sector,SMB,125,1600000,Active,2021-07-17,2024-01-31,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000565,Vertex Analytics,EMEA,Sweden,Transportation & Logistics,SMB,175,2300000,Active,2021-07-19,2024-02-04,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000565,Vertex Analytics,EMEA,Sweden,Transportation & Logistics,SMB,175,2300000,Active,2021-07-19,2024-02-04,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000565,Vertex Analytics,EMEA,Sweden,Transportation & Logistics,SMB,175,2300000,Active,2021-07-19,2024-02-04,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000565,Vertex Analytics,EMEA,Sweden,Transportation & Logistics,SMB,175,2300000,Active,2021-07-19,2024-02-04,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000566,Apex Intelligence,EMEA,Sweden,Real Estate,SMB,200,2450000,Active,2021-07-20,2024-02-06,Real-time Analytics,Rain Carter,James Mueller
+ACC-000566,Apex Intelligence,EMEA,Sweden,Real Estate,SMB,200,2450000,Active,2021-07-20,2024-02-06,Real-time Analytics,River Scott,Lisa Wang
+ACC-000566,Apex Intelligence,EMEA,Sweden,Real Estate,SMB,200,2450000,Active,2021-07-20,2024-02-06,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000567,Matrix Partners,AMER,United States,Insurance,SMB,225,2400000,Active,2021-07-21,2024-02-08,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000568,Quantum Associates,APJ,Australia,Automotive,SMB,250,1000000,Active,2021-07-22,2024-02-10,Customer 360,Zara Collins,Priya Sharma
+ACC-000568,Quantum Associates,APJ,Australia,Automotive,SMB,250,1000000,Active,2021-07-22,2024-02-10,Customer 360,Zen Phillips,Hiroshi Tanaka
+ACC-000569,Synergy Consulting,EMEA,United Kingdom,Professional Services,SMB,275,2900000,Active,2021-07-23,2024-02-12,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000569,Synergy Consulting,EMEA,United Kingdom,Professional Services,SMB,275,2900000,Active,2021-07-23,2024-02-12,IoT Analytics,Ocean Baker,James Mueller
+ACC-000570,Catalyst Services,EMEA,United Kingdom,Financial Services,SMB,300,800000,Active,2021-07-24,2024-02-14,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000571,Pinnacle Solutions,AMER,Canada,Healthcare & Life Sciences,SMB,325,3200000,Active,2021-07-25,2024-02-16,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000574,Phoenix Partners,AMER,United States,Manufacturing,SMB,400,3800000,Active,2021-07-28,2024-02-22,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000576,Nexus Consulting,AMER,Canada,Telecommunications,SMB,450,4200000,Active,2021-07-30,2024-02-26,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000577,Vertex Services,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2021-07-31,2024-02-28,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000577,Vertex Services,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2021-07-31,2024-02-28,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000577,Vertex Services,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2021-07-31,2024-02-28,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000577,Vertex Services,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2021-07-31,2024-02-28,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000578,Apex Solutions,AMER,Mexico,Government & Public Sector,SMB,500,4600000,Active,2021-08-01,2024-03-01,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000579,Matrix Analytics,AMER,United States,Education,SMB,525,4800000,Active,2021-08-02,2024-03-03,Data Engineering,Emery Young,David Thompson
+ACC-000580,Global Industries,AMER,United States,Transportation & Logistics,SMB,50,1000000,New,2021-08-03,2024-03-05,Customer 360,Drew Garcia,Michael Chen
+ACC-000581,Sigma Holdings,AMER,United States,Real Estate,SMB,75,1200000,Churned,2021-08-04,2024-03-07,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000581,Sigma Holdings,AMER,United States,Real Estate,SMB,75,1200000,Churned,2021-08-04,2024-03-07,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000582,Catalyst Associates,AMER,United States,Insurance,SMB,100,1400000,At Risk,2021-08-05,2024-03-09,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000582,Catalyst Associates,AMER,United States,Insurance,SMB,100,1400000,At Risk,2021-08-05,2024-03-09,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000583,Pinnacle Consulting,AMER,United States,Automotive,SMB,125,1600000,Active,2021-08-06,2024-03-11,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000583,Pinnacle Consulting,AMER,United States,Automotive,SMB,125,1600000,Active,2021-08-06,2024-03-11,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000583,Pinnacle Consulting,AMER,United States,Automotive,SMB,125,1600000,Active,2021-08-06,2024-03-11,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000583,Pinnacle Consulting,AMER,United States,Automotive,SMB,125,1600000,Active,2021-08-06,2024-03-11,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000584,Zenith Services,AMER,United States,Professional Services,SMB,150,1800000,Active,2021-08-07,2024-03-13,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000584,Zenith Services,AMER,United States,Professional Services,SMB,150,1800000,Active,2021-08-07,2024-03-13,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000585,Vortex Solutions,AMER,United States,Financial Services,SMB,175,2000000,Active,2021-08-08,2024-03-15,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000586,Phoenix Analytics,AMER,Canada,Healthcare & Life Sciences,SMB,200,2200000,Active,2021-08-09,2024-03-17,Operational Analytics,Parker Allen,David Thompson
+ACC-000589,Vertex Associates,AMER,United States,Manufacturing,SMB,275,2800000,Active,2021-08-12,2024-03-23,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000592,Quantum Solutions,AMER,United States,Energy & Utilities,SMB,350,3400000,Active,2021-08-15,2024-03-29,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000593,Synergy Analytics,APJ,Australia,Government & Public Sector,SMB,375,1100000,Active,2021-08-16,2024-03-31,IoT Analytics,Atlas Edwards,Priya Sharma
+ACC-000593,Synergy Analytics,APJ,Australia,Government & Public Sector,SMB,375,1100000,Active,2021-08-16,2024-03-31,IoT Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000594,Catalyst Intelligence,APJ,Singapore,Education,SMB,400,1200000,Active,2021-08-17,2024-04-02,Financial Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000596,Zenith Associates,AMER,United States,Real Estate,SMB,450,4200000,Active,2021-08-19,2024-04-06,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000597,Vortex Consulting,AMER,Canada,Insurance,SMB,475,4400000,Active,2021-08-20,2024-04-08,Risk & Compliance,Emery Young,David Thompson
+ACC-000598,Phoenix Services,AMER,United States,Automotive,SMB,500,4600000,Active,2021-08-21,2024-04-10,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000599,Titan Solutions,AMER,United States,Professional Services,SMB,525,4800000,Active,2021-08-22,2024-04-12,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000599,Titan Solutions,AMER,United States,Professional Services,SMB,525,4800000,Active,2021-08-22,2024-04-12,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000600,Global Solutions,AMER,United States,Financial Services,Enterprise,5000,100000000,New,2021-08-23,2024-04-14,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000600,Global Solutions,AMER,United States,Financial Services,Enterprise,5000,100000000,New,2021-08-23,2024-04-14,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000601,Beta Inc,AMER,United States,Healthcare & Life Sciences,Enterprise,5500,110000000,Churned,2021-08-24,2024-04-16,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000601,Beta Inc,AMER,United States,Healthcare & Life Sciences,Enterprise,5500,110000000,Churned,2021-08-24,2024-04-16,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000601,Beta Inc,AMER,United States,Healthcare & Life Sciences,Enterprise,5500,110000000,Churned,2021-08-24,2024-04-16,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000601,Beta Inc,AMER,United States,Healthcare & Life Sciences,Enterprise,5500,110000000,Churned,2021-08-24,2024-04-16,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000602,Apex Partners,EMEA,United Kingdom,Technology,Enterprise,6000,96000000,At Risk,2021-08-25,2024-04-18,Real-time Analytics,Rain Carter,James Mueller
+ACC-000602,Apex Partners,EMEA,United Kingdom,Technology,Enterprise,6000,96000000,At Risk,2021-08-25,2024-04-18,Real-time Analytics,River Scott,Lisa Wang
+ACC-000602,Apex Partners,EMEA,United Kingdom,Technology,Enterprise,6000,96000000,At Risk,2021-08-25,2024-04-18,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000603,Matrix Associates,AMER,United States,Retail & E-commerce,Enterprise,6500,130000000,Active,2021-08-26,2024-04-20,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000604,Quantum Consulting,EMEA,Spain,Manufacturing,Enterprise,7000,112000000,Active,2021-08-27,2024-04-22,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000607,Pinnacle Analytics,LATAM,Chile,Energy & Utilities,Enterprise,8500,68000000,Active,2021-08-30,2024-04-28,Marketing Analytics,Vale Sanchez,Carlos Silva
+ACC-000608,Zenith Intelligence,EMEA,Germany,Government & Public Sector,Enterprise,9000,144000000,Active,2021-08-31,2024-04-30,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000610,Phoenix Associates,AMER,Canada,Transportation & Logistics,Enterprise,10000,200000000,Active,2021-09-02,2024-05-04,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000614,Apex Analytics,EMEA,Spain,Professional Services,Enterprise,12000,192000000,Active,2021-09-06,2024-05-12,Real-time Analytics,Rain Carter,James Mueller
+ACC-000614,Apex Analytics,EMEA,Spain,Professional Services,Enterprise,12000,192000000,Active,2021-09-06,2024-05-12,Real-time Analytics,River Scott,Lisa Wang
+ACC-000614,Apex Analytics,EMEA,Spain,Professional Services,Enterprise,12000,192000000,Active,2021-09-06,2024-05-12,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000615,Matrix Intelligence,AMER,Mexico,Financial Services,Enterprise,12500,250000000,Active,2021-09-07,2024-05-14,Data Engineering,Emery Young,David Thompson
+ACC-000616,Quantum Partners,EMEA,France,Healthcare & Life Sciences,Mid-Market,2100,32000000,Active,2021-09-08,2024-05-16,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000617,Synergy Associates,AMER,United States,Technology,Mid-Market,2200,44000000,Active,2021-09-09,2024-05-18,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000617,Synergy Associates,AMER,United States,Technology,Mid-Market,2200,44000000,Active,2021-09-09,2024-05-18,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000618,Catalyst Consulting,EMEA,United Kingdom,Retail & E-commerce,Mid-Market,2300,35000000,Active,2021-09-10,2024-05-20,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000619,Pinnacle Services,LATAM,Chile,Manufacturing,Mid-Market,2400,7200000,Active,2021-09-11,2024-05-22,Marketing Analytics,Vale Sanchez,Carlos Silva
+ACC-000620,Global Industries,APJ,Australia,Media & Entertainment,Mid-Market,2500,6000000,New,2021-09-12,2024-05-24,Supply Chain Analytics,Iris Stewart,Priya Sharma
+ACC-000622,Phoenix Intelligence,AMER,Canada,Energy & Utilities,Mid-Market,2700,54000000,At Risk,2021-09-14,2024-05-28,Operational Analytics,Parker Allen,David Thompson
+ACC-000625,Vertex Consulting,EMEA,France,Transportation & Logistics,Mid-Market,3000,8000000,Active,2021-09-17,2024-06-03,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000625,Vertex Consulting,EMEA,France,Transportation & Logistics,Mid-Market,3000,8000000,Active,2021-09-17,2024-06-03,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000625,Vertex Consulting,EMEA,France,Transportation & Logistics,Mid-Market,3000,8000000,Active,2021-09-17,2024-06-03,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000625,Vertex Consulting,EMEA,France,Transportation & Logistics,Mid-Market,3000,8000000,Active,2021-09-17,2024-06-03,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000628,Quantum Analytics,AMER,United States,Automotive,Mid-Market,3300,66000000,Active,2021-09-20,2024-06-09,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000630,Catalyst Partners,EMEA,Spain,Financial Services,Mid-Market,500,15500000,Active,2021-09-22,2024-06-13,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000632,Zenith Consulting,AMER,United States,Technology,Mid-Market,700,14000000,Active,2021-09-24,2024-06-17,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000633,Vortex Services,AMER,United States,Retail & E-commerce,Mid-Market,800,16000000,Active,2021-09-25,2024-06-19,Risk & Compliance,Emery Young,David Thompson
+ACC-000634,Phoenix Solutions,AMER,Canada,Manufacturing,Mid-Market,900,18000000,Active,2021-09-26,2024-06-21,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000635,Titan Analytics,APJ,Australia,Media & Entertainment,Mid-Market,1000,21000000,Active,2021-09-27,2024-06-23,Data Science Platform,Atlas Edwards,Priya Sharma
+ACC-000635,Titan Analytics,APJ,Australia,Media & Entertainment,Mid-Market,1000,21000000,Active,2021-09-27,2024-06-23,Data Science Platform,Orion Evans,Hiroshi Tanaka
+ACC-000637,Vertex Partners,AMER,United States,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-09-29,2024-06-27,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000637,Vertex Partners,AMER,United States,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-09-29,2024-06-27,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000637,Vertex Partners,AMER,United States,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-09-29,2024-06-27,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000637,Vertex Partners,AMER,United States,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-09-29,2024-06-27,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000638,Apex Associates,EMEA,Sweden,Government & Public Sector,Mid-Market,1300,27500000,Active,2021-09-30,2024-06-29,Real-time Analytics,Rain Carter,James Mueller
+ACC-000638,Apex Associates,EMEA,Sweden,Government & Public Sector,Mid-Market,1300,27500000,Active,2021-09-30,2024-06-29,Real-time Analytics,River Scott,Lisa Wang
+ACC-000638,Apex Associates,EMEA,Sweden,Government & Public Sector,Mid-Market,1300,27500000,Active,2021-09-30,2024-06-29,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000639,Matrix Consulting,APJ,Japan,Education,Mid-Market,1400,25000000,Active,2021-10-01,2024-07-01,Data Engineering,Kai Campbell,Hiroshi Tanaka
+ACC-000640,Global Solutions,LATAM,Argentina,Transportation & Logistics,Mid-Market,1500,12000000,New,2021-10-02,2024-07-03,Customer 360,Vale Sanchez,Carlos Silva
+ACC-000641,Beta Holdings,EMEA,Germany,Real Estate,Mid-Market,1600,32000000,Churned,2021-10-03,2024-07-05,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000641,Beta Holdings,EMEA,Germany,Real Estate,Mid-Market,1600,32000000,Churned,2021-10-03,2024-07-05,IoT Analytics,Ocean Baker,James Mueller
+ACC-000642,Catalyst Analytics,APJ,South Korea,Insurance,Mid-Market,1700,8000000,At Risk,2021-10-04,2024-07-07,Financial Analytics,Atlas Edwards,Priya Sharma
+ACC-000642,Catalyst Analytics,APJ,South Korea,Insurance,Mid-Market,1700,8000000,At Risk,2021-10-04,2024-07-07,Financial Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000643,Pinnacle Intelligence,LATAM,Argentina,Automotive,Mid-Market,1800,14400000,Active,2021-10-05,2024-07-09,Marketing Analytics,Vale Sanchez,Carlos Silva
+ACC-000646,Phoenix Consulting,AMER,United States,Healthcare & Life Sciences,SMB,200,2200000,Active,2021-10-08,2024-07-15,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000647,Titan Services,LATAM,Chile,Technology,SMB,225,960000,Active,2021-10-09,2024-07-17,Data Science Platform,Rio Rogers,Carlos Silva
+ACC-000647,Titan Services,LATAM,Chile,Technology,SMB,225,960000,Active,2021-10-09,2024-07-17,Data Science Platform,Cruz Morris,Carlos Silva
+ACC-000649,Vertex Analytics,APJ,South Korea,Manufacturing,SMB,275,700000,Active,2021-10-11,2024-07-21,Machine Learning & AI,Atlas Edwards,Priya Sharma
+ACC-000649,Vertex Analytics,APJ,South Korea,Manufacturing,SMB,275,700000,Active,2021-10-11,2024-07-21,Machine Learning & AI,Orion Evans,Hiroshi Tanaka
+ACC-000650,Apex Intelligence,EMEA,Sweden,Media & Entertainment,SMB,300,1550000,Active,2021-10-12,2024-07-23,Real-time Analytics,Rain Carter,James Mueller
+ACC-000650,Apex Intelligence,EMEA,Sweden,Media & Entertainment,SMB,300,1550000,Active,2021-10-12,2024-07-23,Real-time Analytics,River Scott,Lisa Wang
+ACC-000650,Apex Intelligence,EMEA,Sweden,Media & Entertainment,SMB,300,1550000,Active,2021-10-12,2024-07-23,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000651,Matrix Partners,AMER,United States,Telecommunications,SMB,325,3200000,Active,2021-10-13,2024-07-25,Data Engineering,Emery Young,David Thompson
+ACC-000652,Quantum Associates,EMEA,Sweden,Energy & Utilities,SMB,350,1850000,Active,2021-10-14,2024-07-27,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000653,Synergy Consulting,EMEA,France,Government & Public Sector,SMB,375,2000000,Active,2021-10-15,2024-07-29,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000653,Synergy Consulting,EMEA,France,Government & Public Sector,SMB,375,2000000,Active,2021-10-15,2024-07-29,IoT Analytics,Ocean Baker,James Mueller
+ACC-000654,Catalyst Services,AMER,United States,Education,SMB,400,3800000,Active,2021-10-16,2024-07-31,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000654,Catalyst Services,AMER,United States,Education,SMB,400,3800000,Active,2021-10-16,2024-07-31,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000655,Pinnacle Solutions,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-10-17,2024-08-02,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000655,Pinnacle Solutions,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-10-17,2024-08-02,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000655,Pinnacle Solutions,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-10-17,2024-08-02,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000655,Pinnacle Solutions,AMER,United States,Transportation & Logistics,SMB,425,4000000,Active,2021-10-17,2024-08-02,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000656,Zenith Analytics,AMER,United States,Real Estate,SMB,450,4200000,Active,2021-10-18,2024-08-04,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000656,Zenith Analytics,AMER,United States,Real Estate,SMB,450,4200000,Active,2021-10-18,2024-08-04,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000657,Vortex Intelligence,AMER,Canada,Insurance,SMB,475,4400000,Active,2021-10-19,2024-08-06,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000658,Phoenix Partners,AMER,United States,Automotive,SMB,500,4600000,Active,2021-10-20,2024-08-08,Operational Analytics,Parker Allen,David Thompson
+ACC-000661,Sigma Inc,AMER,United States,Healthcare & Life Sciences,SMB,75,1200000,Churned,2021-10-23,2024-08-14,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000662,Apex Solutions,APJ,Japan,Technology,SMB,100,800000,At Risk,2021-10-24,2024-08-16,Real-time Analytics,Iris Stewart,Priya Sharma
+ACC-000664,Quantum Intelligence,EMEA,Spain,Manufacturing,SMB,150,1400000,Active,2021-10-26,2024-08-20,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000665,Synergy Partners,EMEA,France,Media & Entertainment,SMB,175,1550000,Active,2021-10-27,2024-08-22,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000665,Synergy Partners,EMEA,France,Media & Entertainment,SMB,175,1550000,Active,2021-10-27,2024-08-22,IoT Analytics,Ocean Baker,James Mueller
+ACC-000668,Zenith Services,AMER,United States,Government & Public Sector,SMB,250,2600000,Active,2021-10-30,2024-08-28,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000669,Vortex Solutions,APJ,Japan,Education,SMB,275,1500000,Active,2021-10-31,2024-08-30,Risk & Compliance,Iris Stewart,Priya Sharma
+ACC-000672,Nexus Partners,AMER,United States,Insurance,SMB,350,3400000,Active,2021-11-03,2024-09-05,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000672,Nexus Partners,AMER,United States,Insurance,SMB,350,3400000,Active,2021-11-03,2024-09-05,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000673,Vertex Associates,AMER,United States,Automotive,SMB,375,3600000,Active,2021-11-04,2024-09-07,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000673,Vertex Associates,AMER,United States,Automotive,SMB,375,3600000,Active,2021-11-04,2024-09-07,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000673,Vertex Associates,AMER,United States,Automotive,SMB,375,3600000,Active,2021-11-04,2024-09-07,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000673,Vertex Associates,AMER,United States,Automotive,SMB,375,3600000,Active,2021-11-04,2024-09-07,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000674,Apex Consulting,EMEA,France,Professional Services,SMB,400,2900000,Active,2021-11-05,2024-09-09,Real-time Analytics,Rain Carter,James Mueller
+ACC-000674,Apex Consulting,EMEA,France,Professional Services,SMB,400,2900000,Active,2021-11-05,2024-09-09,Real-time Analytics,River Scott,Lisa Wang
+ACC-000674,Apex Consulting,EMEA,France,Professional Services,SMB,400,2900000,Active,2021-11-05,2024-09-09,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000675,Matrix Services,AMER,United States,Financial Services,SMB,425,4000000,Active,2021-11-06,2024-09-11,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000676,Quantum Solutions,AMER,United States,Healthcare & Life Sciences,SMB,450,4200000,Active,2021-11-07,2024-09-13,Customer 360,Parker Allen,David Thompson
+ACC-000679,Pinnacle Partners,AMER,United States,Manufacturing,SMB,525,4800000,Active,2021-11-10,2024-09-19,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000686,Apex Partners,EMEA,Sweden,Real Estate,SMB,200,2450000,Active,2021-11-17,2024-10-03,Real-time Analytics,Rain Carter,James Mueller
+ACC-000686,Apex Partners,EMEA,Sweden,Real Estate,SMB,200,2450000,Active,2021-11-17,2024-10-03,Real-time Analytics,River Scott,Lisa Wang
+ACC-000686,Apex Partners,EMEA,Sweden,Real Estate,SMB,200,2450000,Active,2021-11-17,2024-10-03,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000687,Matrix Associates,AMER,United States,Insurance,SMB,225,2400000,Active,2021-11-18,2024-10-05,Data Engineering,Emery Young,David Thompson
+ACC-000688,Quantum Consulting,AMER,Mexico,Automotive,SMB,250,2600000,Active,2021-11-19,2024-10-07,Customer 360,Drew Garcia,Michael Chen
+ACC-000689,Synergy Services,AMER,United States,Professional Services,SMB,275,2800000,Active,2021-11-20,2024-10-09,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000689,Synergy Services,AMER,United States,Professional Services,SMB,275,2800000,Active,2021-11-20,2024-10-09,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000690,Catalyst Solutions,AMER,United States,Financial Services,SMB,300,3000000,Active,2021-11-21,2024-10-11,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000690,Catalyst Solutions,AMER,United States,Financial Services,SMB,300,3000000,Active,2021-11-21,2024-10-11,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000692,Zenith Intelligence,AMER,Canada,Technology,SMB,350,3400000,Active,2021-11-23,2024-10-15,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000692,Zenith Intelligence,AMER,Canada,Technology,SMB,350,3400000,Active,2021-11-23,2024-10-15,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000693,Vortex Partners,AMER,United States,Retail & E-commerce,SMB,375,3600000,Active,2021-11-24,2024-10-17,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000695,Titan Consulting,APJ,Japan,Media & Entertainment,SMB,425,1700000,Active,2021-11-26,2024-10-21,Data Science Platform,Kai Campbell,Hiroshi Tanaka
+ACC-000697,Vertex Solutions,LATAM,Chile,Energy & Utilities,SMB,475,960000,Active,2021-11-28,2024-10-25,Machine Learning & AI,Vale Sanchez,Carlos Silva
+ACC-000698,Apex Analytics,EMEA,Netherlands,Government & Public Sector,SMB,500,2000000,Active,2021-11-29,2024-10-27,Real-time Analytics,Rain Carter,James Mueller
+ACC-000698,Apex Analytics,EMEA,Netherlands,Government & Public Sector,SMB,500,2000000,Active,2021-11-29,2024-10-27,Real-time Analytics,River Scott,Lisa Wang
+ACC-000698,Apex Analytics,EMEA,Netherlands,Government & Public Sector,SMB,500,2000000,Active,2021-11-29,2024-10-27,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000700,Global Industries,AMER,United States,Transportation & Logistics,Enterprise,5000,100000000,New,2021-12-01,2024-10-31,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000702,Catalyst Consulting,APJ,Australia,Insurance,Enterprise,6000,132000000,At Risk,2021-12-03,2024-11-04,Financial Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000704,Zenith Solutions,AMER,United States,Professional Services,Enterprise,7000,140000000,Active,2021-12-05,2024-11-08,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000705,Vortex Analytics,AMER,United States,Financial Services,Enterprise,7500,150000000,Active,2021-12-06,2024-11-10,Risk & Compliance,Emery Young,David Thompson
+ACC-000706,Phoenix Intelligence,AMER,Canada,Healthcare & Life Sciences,Enterprise,8000,160000000,Active,2021-12-07,2024-11-12,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000707,Titan Partners,AMER,United States,Technology,Enterprise,8500,170000000,Active,2021-12-08,2024-11-14,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000707,Titan Partners,AMER,United States,Technology,Enterprise,8500,170000000,Active,2021-12-08,2024-11-14,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000708,Nexus Associates,AMER,United States,Retail & E-commerce,Enterprise,9000,180000000,Active,2021-12-09,2024-11-16,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000708,Nexus Associates,AMER,United States,Retail & E-commerce,Enterprise,9000,180000000,Active,2021-12-09,2024-11-16,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000709,Vertex Consulting,APJ,Japan,Manufacturing,Enterprise,9500,174000000,Active,2021-12-10,2024-11-18,Machine Learning & AI,Kai Campbell,Hiroshi Tanaka
+ACC-000710,Apex Services,EMEA,Germany,Media & Entertainment,Enterprise,10000,320000000,Active,2021-12-11,2024-11-20,Real-time Analytics,Rain Carter,James Mueller
+ACC-000710,Apex Services,EMEA,Germany,Media & Entertainment,Enterprise,10000,320000000,Active,2021-12-11,2024-11-20,Real-time Analytics,River Scott,Lisa Wang
+ACC-000710,Apex Services,EMEA,Germany,Media & Entertainment,Enterprise,10000,320000000,Active,2021-12-11,2024-11-20,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000712,Quantum Analytics,EMEA,Netherlands,Energy & Utilities,Enterprise,11000,336000000,Active,2021-12-13,2024-11-24,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000715,Pinnacle Associates,AMER,United States,Transportation & Logistics,Enterprise,12500,250000000,Active,2021-12-16,2024-11-30,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000716,Zenith Consulting,EMEA,France,Real Estate,Mid-Market,3100,32000000,Active,2021-12-17,2024-12-02,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000720,Global Solutions,APJ,Japan,Financial Services,Mid-Market,500,6000000,New,2021-12-21,2024-12-10,Data Analytics & BI,Neo Parker,Hiroshi Tanaka
+ACC-000721,Beta Inc,EMEA,United Kingdom,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-12-22,2024-12-12,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000721,Beta Inc,EMEA,United Kingdom,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-12-22,2024-12-12,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000721,Beta Inc,EMEA,United Kingdom,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-12-22,2024-12-12,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000721,Beta Inc,EMEA,United Kingdom,Healthcare & Life Sciences,Mid-Market,600,39500000,Churned,2021-12-22,2024-12-12,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000722,Apex Associates,APJ,Singapore,Technology,Mid-Market,700,8000000,At Risk,2021-12-23,2024-12-14,Real-time Analytics,Zara Collins,Priya Sharma
+ACC-000722,Apex Associates,APJ,Singapore,Technology,Mid-Market,700,8000000,At Risk,2021-12-23,2024-12-14,Real-time Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000724,Quantum Services,AMER,United States,Manufacturing,Mid-Market,900,18000000,Active,2021-12-25,2024-12-18,Customer 360,Drew Garcia,Michael Chen
+ACC-000725,Synergy Solutions,AMER,United States,Media & Entertainment,Mid-Market,1000,20000000,Active,2021-12-26,2024-12-20,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000725,Synergy Solutions,AMER,United States,Media & Entertainment,Mid-Market,1000,20000000,Active,2021-12-26,2024-12-20,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000726,Catalyst Analytics,APJ,Singapore,Telecommunications,Mid-Market,1100,12000000,Active,2021-12-27,2024-12-22,Financial Analytics,Atlas Edwards,Priya Sharma
+ACC-000726,Catalyst Analytics,APJ,Singapore,Telecommunications,Mid-Market,1100,12000000,Active,2021-12-27,2024-12-22,Financial Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000727,Pinnacle Intelligence,AMER,Canada,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-12-28,2024-12-24,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000727,Pinnacle Intelligence,AMER,Canada,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-12-28,2024-12-24,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000727,Pinnacle Intelligence,AMER,Canada,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-12-28,2024-12-24,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000727,Pinnacle Intelligence,AMER,Canada,Energy & Utilities,Mid-Market,1200,24000000,Active,2021-12-28,2024-12-24,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000728,Zenith Partners,AMER,United States,Government & Public Sector,Mid-Market,1300,26000000,Active,2021-12-29,2024-12-26,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000728,Zenith Partners,AMER,United States,Government & Public Sector,Mid-Market,1300,26000000,Active,2021-12-29,2024-12-26,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000729,Vortex Associates,AMER,United States,Education,Mid-Market,1400,28000000,Active,2021-12-30,2024-12-28,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000733,Vertex Analytics,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2022-01-03,2023-01-06,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000736,Quantum Associates,AMER,United States,Healthcare & Life Sciences,Mid-Market,2100,42000000,Active,2022-01-06,2023-01-12,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000740,Global Industries,EMEA,Spain,Media & Entertainment,Mid-Market,2500,30500000,New,2022-01-10,2023-01-20,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000741,Sigma Ltd,APJ,Japan,Telecommunications,Mid-Market,2600,7000000,Churned,2022-01-11,2023-01-22,Risk & Compliance,Neo Parker,Hiroshi Tanaka
+ACC-000743,Titan Associates,AMER,United States,Government & Public Sector,Mid-Market,2800,56000000,Active,2022-01-13,2023-01-26,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000743,Titan Associates,AMER,United States,Government & Public Sector,Mid-Market,2800,56000000,Active,2022-01-13,2023-01-26,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000744,Nexus Consulting,AMER,United States,Education,Mid-Market,2900,58000000,Active,2022-01-14,2023-01-28,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000744,Nexus Consulting,AMER,United States,Education,Mid-Market,2900,58000000,Active,2022-01-14,2023-01-28,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000746,Apex Solutions,EMEA,United Kingdom,Real Estate,SMB,200,2450000,Active,2022-01-16,2023-02-01,Real-time Analytics,Rain Carter,James Mueller
+ACC-000746,Apex Solutions,EMEA,United Kingdom,Real Estate,SMB,200,2450000,Active,2022-01-16,2023-02-01,Real-time Analytics,River Scott,Lisa Wang
+ACC-000746,Apex Solutions,EMEA,United Kingdom,Real Estate,SMB,200,2450000,Active,2022-01-16,2023-02-01,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000748,Quantum Intelligence,AMER,Canada,Automotive,SMB,250,2600000,Active,2022-01-18,2023-02-05,Customer 360,Parker Allen,David Thompson
+ACC-000749,Synergy Partners,EMEA,United Kingdom,Professional Services,SMB,275,2900000,Active,2022-01-19,2023-02-07,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000749,Synergy Partners,EMEA,United Kingdom,Professional Services,SMB,275,2900000,Active,2022-01-19,2023-02-07,IoT Analytics,Ocean Baker,James Mueller
+ACC-000751,Pinnacle Consulting,APJ,Japan,Healthcare & Life Sciences,SMB,325,1300000,Active,2022-01-21,2023-02-11,Marketing Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000753,Vortex Solutions,APJ,South Korea,Retail & E-commerce,SMB,375,1500000,Active,2022-01-23,2023-02-15,Risk & Compliance,Iris Stewart,Priya Sharma
+ACC-000754,Phoenix Analytics,AMER,United States,Manufacturing,SMB,400,3800000,Active,2022-01-24,2023-02-17,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000755,Titan Intelligence,APJ,Japan,Media & Entertainment,SMB,425,1700000,Active,2022-01-25,2023-02-19,Data Science Platform,Neo Parker,Hiroshi Tanaka
+ACC-000757,Vertex Associates,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2022-01-27,2023-02-23,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000757,Vertex Associates,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2022-01-27,2023-02-23,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000757,Vertex Associates,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2022-01-27,2023-02-23,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000757,Vertex Associates,EMEA,Germany,Energy & Utilities,SMB,475,1850000,Active,2022-01-27,2023-02-23,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000758,Apex Consulting,AMER,United States,Government & Public Sector,SMB,500,4600000,Active,2022-01-28,2023-02-25,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000759,Matrix Services,AMER,United States,Education,SMB,525,4800000,Active,2022-01-29,2023-02-27,Data Engineering,Emery Young,David Thompson
+ACC-000760,Global Solutions,EMEA,Spain,Transportation & Logistics,SMB,50,2300000,New,2022-01-30,2023-03-01,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000761,Beta Holdings,APJ,Japan,Real Estate,SMB,75,1100000,Churned,2022-01-31,2023-03-03,IoT Analytics,Atlas Edwards,Priya Sharma
+ACC-000761,Beta Holdings,APJ,Japan,Real Estate,SMB,75,1100000,Churned,2022-01-31,2023-03-03,IoT Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000762,Catalyst Intelligence,AMER,Canada,Insurance,SMB,100,1400000,At Risk,2022-02-01,2023-03-05,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000762,Catalyst Intelligence,AMER,Canada,Insurance,SMB,100,1400000,At Risk,2022-02-01,2023-03-05,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000763,Pinnacle Partners,AMER,United States,Automotive,SMB,125,1600000,Active,2022-02-02,2023-03-07,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000763,Pinnacle Partners,AMER,United States,Automotive,SMB,125,1600000,Active,2022-02-02,2023-03-07,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000763,Pinnacle Partners,AMER,United States,Automotive,SMB,125,1600000,Active,2022-02-02,2023-03-07,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000763,Pinnacle Partners,AMER,United States,Automotive,SMB,125,1600000,Active,2022-02-02,2023-03-07,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000764,Zenith Associates,EMEA,France,Professional Services,SMB,150,2900000,Active,2022-02-03,2023-03-09,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000765,Vortex Consulting,AMER,Canada,Financial Services,SMB,175,2000000,Active,2022-02-04,2023-03-11,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000769,Vertex Intelligence,EMEA,Sweden,Manufacturing,SMB,275,1400000,Active,2022-02-08,2023-03-19,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000769,Vertex Intelligence,EMEA,Sweden,Manufacturing,SMB,275,1400000,Active,2022-02-08,2023-03-19,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000769,Vertex Intelligence,EMEA,Sweden,Manufacturing,SMB,275,1400000,Active,2022-02-08,2023-03-19,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000769,Vertex Intelligence,EMEA,Sweden,Manufacturing,SMB,275,1400000,Active,2022-02-08,2023-03-19,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000770,Apex Partners,EMEA,Spain,Media & Entertainment,SMB,300,1550000,Active,2022-02-09,2023-03-21,Real-time Analytics,Rain Carter,James Mueller
+ACC-000770,Apex Partners,EMEA,Spain,Media & Entertainment,SMB,300,1550000,Active,2022-02-09,2023-03-21,Real-time Analytics,River Scott,Lisa Wang
+ACC-000770,Apex Partners,EMEA,Spain,Media & Entertainment,SMB,300,1550000,Active,2022-02-09,2023-03-21,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000771,Matrix Associates,APJ,South Korea,Telecommunications,SMB,325,900000,Active,2022-02-10,2023-03-23,Data Engineering,Zara Collins,Priya Sharma
+ACC-000771,Matrix Associates,APJ,South Korea,Telecommunications,SMB,325,900000,Active,2022-02-10,2023-03-23,Data Engineering,Zen Phillips,Hiroshi Tanaka
+ACC-000772,Quantum Consulting,AMER,United States,Energy & Utilities,SMB,350,3400000,Active,2022-02-11,2023-03-25,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000773,Synergy Services,EMEA,Germany,Government & Public Sector,SMB,375,2000000,Active,2022-02-12,2023-03-27,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000773,Synergy Services,EMEA,Germany,Government & Public Sector,SMB,375,2000000,Active,2022-02-12,2023-03-27,IoT Analytics,Ocean Baker,James Mueller
+ACC-000776,Zenith Intelligence,AMER,United States,Real Estate,SMB,450,4200000,Active,2022-02-15,2023-04-02,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000777,Vortex Partners,AMER,United States,Insurance,SMB,475,4400000,Active,2022-02-16,2023-04-04,Risk & Compliance,Emery Young,David Thompson
+ACC-000779,Titan Consulting,AMER,United States,Professional Services,SMB,525,4800000,Active,2022-02-18,2023-04-08,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000779,Titan Consulting,AMER,United States,Professional Services,SMB,525,4800000,Active,2022-02-18,2023-04-08,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000780,Global Industries,AMER,United States,Financial Services,SMB,50,1000000,New,2022-02-19,2023-04-10,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000780,Global Industries,AMER,United States,Financial Services,SMB,50,1000000,New,2022-02-19,2023-04-10,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000781,Sigma Inc,EMEA,Germany,Healthcare & Life Sciences,SMB,75,950000,Churned,2022-02-20,2023-04-12,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000781,Sigma Inc,EMEA,Germany,Healthcare & Life Sciences,SMB,75,950000,Churned,2022-02-20,2023-04-12,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000781,Sigma Inc,EMEA,Germany,Healthcare & Life Sciences,SMB,75,950000,Churned,2022-02-20,2023-04-12,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000781,Sigma Inc,EMEA,Germany,Healthcare & Life Sciences,SMB,75,950000,Churned,2022-02-20,2023-04-12,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000782,Apex Analytics,EMEA,Sweden,Technology,SMB,100,1100000,At Risk,2022-02-21,2023-04-14,Real-time Analytics,Rain Carter,James Mueller
+ACC-000782,Apex Analytics,EMEA,Sweden,Technology,SMB,100,1100000,At Risk,2022-02-21,2023-04-14,Real-time Analytics,River Scott,Lisa Wang
+ACC-000782,Apex Analytics,EMEA,Sweden,Technology,SMB,100,1100000,At Risk,2022-02-21,2023-04-14,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000783,Matrix Intelligence,AMER,United States,Retail & E-commerce,SMB,125,1600000,Active,2022-02-22,2023-04-16,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000784,Quantum Partners,EMEA,Sweden,Manufacturing,SMB,150,1400000,Active,2022-02-23,2023-04-18,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000785,Synergy Associates,EMEA,Sweden,Media & Entertainment,SMB,175,1550000,Active,2022-02-24,2023-04-20,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000785,Synergy Associates,EMEA,Sweden,Media & Entertainment,SMB,175,1550000,Active,2022-02-24,2023-04-20,IoT Analytics,Ocean Baker,James Mueller
+ACC-000787,Pinnacle Services,AMER,United States,Energy & Utilities,SMB,225,2400000,Active,2022-02-26,2023-04-24,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000790,Phoenix Intelligence,APJ,Japan,Transportation & Logistics,SMB,300,1600000,Active,2022-03-01,2023-04-30,Operational Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000794,Apex Services,AMER,United States,Professional Services,SMB,400,3800000,Active,2022-03-05,2023-05-08,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000796,Quantum Analytics,AMER,United States,Healthcare & Life Sciences,SMB,450,4200000,Active,2022-03-07,2023-05-12,Customer 360,Drew Garcia,Michael Chen
+ACC-000797,Synergy Intelligence,AMER,Canada,Technology,SMB,475,4400000,Active,2022-03-08,2023-05-14,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000797,Synergy Intelligence,AMER,Canada,Technology,SMB,475,4400000,Active,2022-03-08,2023-05-14,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000798,Catalyst Partners,EMEA,Spain,Retail & E-commerce,SMB,500,1250000,Active,2022-03-09,2023-05-16,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000800,Global Solutions,AMER,United States,Media & Entertainment,Enterprise,5000,100000000,New,2022-03-11,2023-05-20,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000800,Global Solutions,AMER,United States,Media & Entertainment,Enterprise,5000,100000000,New,2022-03-11,2023-05-20,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000806,Apex Associates,APJ,Australia,Real Estate,Enterprise,8000,216000000,Active,2022-03-17,2023-06-01,Real-time Analytics,Zara Collins,Priya Sharma
+ACC-000806,Apex Associates,APJ,Australia,Real Estate,Enterprise,8000,216000000,Active,2022-03-17,2023-06-01,Real-time Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000808,Quantum Services,AMER,Mexico,Automotive,Enterprise,9000,180000000,Active,2022-03-19,2023-06-05,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000809,Synergy Solutions,EMEA,Spain,Professional Services,Enterprise,9500,152000000,Active,2022-03-20,2023-06-07,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000809,Synergy Solutions,EMEA,Spain,Professional Services,Enterprise,9500,152000000,Active,2022-03-20,2023-06-07,IoT Analytics,Ocean Baker,James Mueller
+ACC-000810,Catalyst Analytics,AMER,United States,Financial Services,Enterprise,10000,200000000,Active,2022-03-21,2023-06-09,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000812,Zenith Partners,AMER,Mexico,Technology,Enterprise,11000,220000000,Active,2022-03-23,2023-06-13,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000814,Phoenix Consulting,AMER,United States,Manufacturing,Enterprise,12000,240000000,Active,2022-03-25,2023-06-17,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000817,Vertex Analytics,AMER,Mexico,Energy & Utilities,Mid-Market,1200,24000000,Active,2022-03-28,2023-06-23,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000817,Vertex Analytics,AMER,Mexico,Energy & Utilities,Mid-Market,1200,24000000,Active,2022-03-28,2023-06-23,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000817,Vertex Analytics,AMER,Mexico,Energy & Utilities,Mid-Market,1200,24000000,Active,2022-03-28,2023-06-23,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000817,Vertex Analytics,AMER,Mexico,Energy & Utilities,Mid-Market,1200,24000000,Active,2022-03-28,2023-06-23,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000818,Apex Intelligence,EMEA,France,Government & Public Sector,Mid-Market,1300,35000000,Active,2022-03-29,2023-06-25,Real-time Analytics,Rain Carter,James Mueller
+ACC-000818,Apex Intelligence,EMEA,France,Government & Public Sector,Mid-Market,1300,35000000,Active,2022-03-29,2023-06-25,Real-time Analytics,River Scott,Lisa Wang
+ACC-000818,Apex Intelligence,EMEA,France,Government & Public Sector,Mid-Market,1300,35000000,Active,2022-03-29,2023-06-25,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000819,Matrix Partners,AMER,United States,Education,Mid-Market,1400,28000000,Active,2022-03-30,2023-06-27,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000820,Global Industries,EMEA,Spain,Transportation & Logistics,Mid-Market,1500,38000000,New,2022-03-31,2023-06-29,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000821,Sigma Holdings,APJ,Singapore,Real Estate,Mid-Market,1600,7000000,Churned,2022-04-01,2023-07-01,IoT Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000822,Catalyst Services,EMEA,United Kingdom,Insurance,Mid-Market,1700,41000000,At Risk,2022-04-02,2023-07-03,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000823,Pinnacle Solutions,APJ,Australia,Automotive,Mid-Market,1800,9000000,Active,2022-04-03,2023-07-05,Marketing Analytics,Iris Stewart,Priya Sharma
+ACC-000824,Zenith Analytics,LATAM,Chile,Professional Services,Mid-Market,1900,15200000,Active,2022-04-04,2023-07-07,Supply Chain Analytics,Rio Rogers,Carlos Silva
+ACC-000824,Zenith Analytics,LATAM,Chile,Professional Services,Mid-Market,1900,15200000,Active,2022-04-04,2023-07-07,Supply Chain Analytics,Cruz Morris,Carlos Silva
+ACC-000826,Phoenix Partners,AMER,United States,Healthcare & Life Sciences,Mid-Market,2100,42000000,Active,2022-04-06,2023-07-11,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000828,Nexus Consulting,AMER,United States,Retail & E-commerce,Mid-Market,2300,46000000,Active,2022-04-08,2023-07-15,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000830,Apex Solutions,EMEA,France,Media & Entertainment,Mid-Market,2500,15500000,Active,2022-04-10,2023-07-19,Real-time Analytics,Rain Carter,James Mueller
+ACC-000830,Apex Solutions,EMEA,France,Media & Entertainment,Mid-Market,2500,15500000,Active,2022-04-10,2023-07-19,Real-time Analytics,River Scott,Lisa Wang
+ACC-000830,Apex Solutions,EMEA,France,Media & Entertainment,Mid-Market,2500,15500000,Active,2022-04-10,2023-07-19,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000832,Quantum Intelligence,EMEA,Netherlands,Energy & Utilities,Mid-Market,2700,18500000,Active,2022-04-12,2023-07-23,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000833,Synergy Partners,EMEA,United Kingdom,Government & Public Sector,Mid-Market,2800,20000000,Active,2022-04-13,2023-07-25,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000833,Synergy Partners,EMEA,United Kingdom,Government & Public Sector,Mid-Market,2800,20000000,Active,2022-04-13,2023-07-25,IoT Analytics,Ocean Baker,James Mueller
+ACC-000834,Catalyst Associates,APJ,Australia,Education,Mid-Market,2900,20000000,Active,2022-04-14,2023-07-27,Financial Analytics,Zara Collins,Priya Sharma
+ACC-000834,Catalyst Associates,APJ,Australia,Education,Mid-Market,2900,20000000,Active,2022-04-14,2023-07-27,Financial Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000836,Zenith Services,AMER,United States,Real Estate,Mid-Market,3100,62000000,Active,2022-04-16,2023-07-31,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000836,Zenith Services,AMER,United States,Real Estate,Mid-Market,3100,62000000,Active,2022-04-16,2023-07-31,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000837,Vortex Solutions,APJ,Australia,Insurance,Mid-Market,3200,23000000,Active,2022-04-17,2023-08-02,Risk & Compliance,Iris Stewart,Priya Sharma
+ACC-000838,Phoenix Analytics,APJ,Australia,Automotive,Mid-Market,3300,24000000,Active,2022-04-18,2023-08-04,Operational Analytics,Atlas Edwards,Priya Sharma
+ACC-000838,Phoenix Analytics,APJ,Australia,Automotive,Mid-Market,3300,24000000,Active,2022-04-18,2023-08-04,Operational Analytics,Orion Evans,Hiroshi Tanaka
+ACC-000841,Beta Inc,AMER,Mexico,Healthcare & Life Sciences,Mid-Market,600,12000000,Churned,2022-04-21,2023-08-10,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000844,Quantum Solutions,AMER,United States,Manufacturing,Mid-Market,900,18000000,Active,2022-04-24,2023-08-16,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000846,Catalyst Intelligence,EMEA,United Kingdom,Telecommunications,SMB,200,1700000,Active,2022-04-26,2023-08-20,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000848,Zenith Associates,EMEA,United Kingdom,Government & Public Sector,SMB,250,2000000,Active,2022-04-28,2023-08-24,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000850,Phoenix Services,AMER,United States,Transportation & Logistics,SMB,300,3000000,Active,2022-04-30,2023-08-28,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000851,Titan Solutions,AMER,United States,Real Estate,SMB,325,3200000,Active,2022-05-01,2023-08-30,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000851,Titan Solutions,AMER,United States,Real Estate,SMB,325,3200000,Active,2022-05-01,2023-08-30,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000852,Nexus Analytics,APJ,Japan,Insurance,SMB,350,600000,Active,2022-05-02,2023-09-01,Data Analytics & BI,Atlas Edwards,Priya Sharma
+ACC-000852,Nexus Analytics,APJ,Japan,Insurance,SMB,350,600000,Active,2022-05-02,2023-09-01,Data Analytics & BI,Orion Evans,Hiroshi Tanaka
+ACC-000853,Vertex Intelligence,EMEA,United Kingdom,Automotive,SMB,375,2750000,Active,2022-05-03,2023-09-03,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000853,Vertex Intelligence,EMEA,United Kingdom,Automotive,SMB,375,2750000,Active,2022-05-03,2023-09-03,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000853,Vertex Intelligence,EMEA,United Kingdom,Automotive,SMB,375,2750000,Active,2022-05-03,2023-09-03,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000853,Vertex Intelligence,EMEA,United Kingdom,Automotive,SMB,375,2750000,Active,2022-05-03,2023-09-03,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000854,Apex Partners,AMER,United States,Professional Services,SMB,400,3800000,Active,2022-05-04,2023-09-05,Real-time Analytics,Reese Lewis,David Thompson
+ACC-000854,Apex Partners,AMER,United States,Professional Services,SMB,400,3800000,Active,2022-05-04,2023-09-05,Real-time Analytics,Riley Martinez,Michael Chen
+ACC-000855,Matrix Associates,AMER,United States,Financial Services,SMB,425,4000000,Active,2022-05-05,2023-09-07,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000856,Quantum Consulting,EMEA,Netherlands,Healthcare & Life Sciences,SMB,450,950000,Active,2022-05-06,2023-09-09,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000860,Global Industries,APJ,Japan,Media & Entertainment,SMB,50,1400000,New,2022-05-10,2023-09-17,Supply Chain Analytics,Neo Parker,Hiroshi Tanaka
+ACC-000862,Phoenix Associates,AMER,United States,Energy & Utilities,SMB,100,1400000,At Risk,2022-05-12,2023-09-21,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000865,Vertex Solutions,EMEA,Spain,Transportation & Logistics,SMB,175,2300000,Active,2022-05-15,2023-09-27,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000865,Vertex Solutions,EMEA,Spain,Transportation & Logistics,SMB,175,2300000,Active,2022-05-15,2023-09-27,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000865,Vertex Solutions,EMEA,Spain,Transportation & Logistics,SMB,175,2300000,Active,2022-05-15,2023-09-27,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000865,Vertex Solutions,EMEA,Spain,Transportation & Logistics,SMB,175,2300000,Active,2022-05-15,2023-09-27,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000866,Apex Analytics,AMER,United States,Real Estate,SMB,200,2200000,Active,2022-05-16,2023-09-29,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000867,Matrix Intelligence,AMER,United States,Insurance,SMB,225,2400000,Active,2022-05-17,2023-10-01,Data Engineering,Emery Young,David Thompson
+ACC-000868,Quantum Partners,EMEA,United Kingdom,Automotive,SMB,250,2750000,Active,2022-05-18,2023-10-03,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000869,Synergy Associates,AMER,United States,Professional Services,SMB,275,2800000,Active,2022-05-19,2023-10-05,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000869,Synergy Associates,AMER,United States,Professional Services,SMB,275,2800000,Active,2022-05-19,2023-10-05,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000870,Catalyst Consulting,AMER,Canada,Financial Services,SMB,300,3000000,Active,2022-05-20,2023-10-07,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000870,Catalyst Consulting,AMER,Canada,Financial Services,SMB,300,3000000,Active,2022-05-20,2023-10-07,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000872,Zenith Solutions,EMEA,Germany,Technology,SMB,350,1100000,Active,2022-05-22,2023-10-11,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000873,Vortex Analytics,AMER,United States,Retail & E-commerce,SMB,375,3600000,Active,2022-05-23,2023-10-13,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000874,Phoenix Intelligence,LATAM,Argentina,Manufacturing,SMB,400,720000,Active,2022-05-24,2023-10-15,Operational Analytics,Vale Sanchez,Carlos Silva
+ACC-000877,Vertex Consulting,EMEA,Spain,Energy & Utilities,SMB,475,1850000,Active,2022-05-27,2023-10-21,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000877,Vertex Consulting,EMEA,Spain,Energy & Utilities,SMB,475,1850000,Active,2022-05-27,2023-10-21,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000877,Vertex Consulting,EMEA,Spain,Energy & Utilities,SMB,475,1850000,Active,2022-05-27,2023-10-21,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000877,Vertex Consulting,EMEA,Spain,Energy & Utilities,SMB,475,1850000,Active,2022-05-27,2023-10-21,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000880,Global Solutions,EMEA,Netherlands,Transportation & Logistics,SMB,50,2300000,New,2022-05-30,2023-10-27,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000884,Zenith Consulting,APJ,South Korea,Professional Services,SMB,150,1400000,Active,2022-06-03,2023-11-04,Supply Chain Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000886,Phoenix Solutions,AMER,Canada,Healthcare & Life Sciences,SMB,200,2200000,Active,2022-06-05,2023-11-08,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000888,Nexus Intelligence,AMER,Canada,Retail & E-commerce,SMB,250,2600000,Active,2022-06-07,2023-11-12,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000888,Nexus Intelligence,AMER,Canada,Retail & E-commerce,SMB,250,2600000,Active,2022-06-07,2023-11-12,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000889,Vertex Partners,AMER,Canada,Manufacturing,SMB,275,2800000,Active,2022-06-08,2023-11-14,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000889,Vertex Partners,AMER,Canada,Manufacturing,SMB,275,2800000,Active,2022-06-08,2023-11-14,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000889,Vertex Partners,AMER,Canada,Manufacturing,SMB,275,2800000,Active,2022-06-08,2023-11-14,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000889,Vertex Partners,AMER,Canada,Manufacturing,SMB,275,2800000,Active,2022-06-08,2023-11-14,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000890,Apex Associates,EMEA,Netherlands,Media & Entertainment,SMB,300,1550000,Active,2022-06-09,2023-11-16,Real-time Analytics,Rain Carter,James Mueller
+ACC-000890,Apex Associates,EMEA,Netherlands,Media & Entertainment,SMB,300,1550000,Active,2022-06-09,2023-11-16,Real-time Analytics,River Scott,Lisa Wang
+ACC-000890,Apex Associates,EMEA,Netherlands,Media & Entertainment,SMB,300,1550000,Active,2022-06-09,2023-11-16,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000892,Quantum Services,AMER,Mexico,Energy & Utilities,SMB,350,3400000,Active,2022-06-11,2023-11-20,Customer 360,Parker Allen,David Thompson
+ACC-000895,Pinnacle Intelligence,AMER,Mexico,Transportation & Logistics,SMB,425,4000000,Active,2022-06-14,2023-11-26,Marketing Analytics,Morgan Davis,Sarah Johnson
+ACC-000898,Phoenix Consulting,AMER,Canada,Automotive,SMB,500,4600000,Active,2022-06-17,2023-12-02,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000900,Global Industries,AMER,United States,Financial Services,Enterprise,5000,100000000,New,2022-06-19,2023-12-06,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000901,Sigma Inc,APJ,South Korea,Healthcare & Life Sciences,Enterprise,5500,66000000,Churned,2022-06-20,2023-12-08,Machine Learning & AI,Atlas Edwards,Priya Sharma
+ACC-000901,Sigma Inc,APJ,South Korea,Healthcare & Life Sciences,Enterprise,5500,66000000,Churned,2022-06-20,2023-12-08,Machine Learning & AI,Orion Evans,Hiroshi Tanaka
+ACC-000902,Apex Intelligence,AMER,Mexico,Technology,Enterprise,6000,120000000,At Risk,2022-06-21,2023-12-10,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000903,Matrix Partners,AMER,United States,Retail & E-commerce,Enterprise,6500,130000000,Active,2022-06-22,2023-12-12,Data Engineering,Emery Young,David Thompson
+ACC-000904,Quantum Associates,APJ,Japan,Manufacturing,Enterprise,7000,84000000,Active,2022-06-23,2023-12-14,Customer 360,Zara Collins,Priya Sharma
+ACC-000904,Quantum Associates,APJ,Japan,Manufacturing,Enterprise,7000,84000000,Active,2022-06-23,2023-12-14,Customer 360,Zen Phillips,Hiroshi Tanaka
+ACC-000905,Synergy Consulting,AMER,United States,Media & Entertainment,Enterprise,7500,150000000,Active,2022-06-24,2023-12-16,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000905,Synergy Consulting,AMER,United States,Media & Entertainment,Enterprise,7500,150000000,Active,2022-06-24,2023-12-16,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000906,Catalyst Services,EMEA,Spain,Telecommunications,Enterprise,8000,288000000,Active,2022-06-25,2023-12-18,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000908,Zenith Analytics,EMEA,Netherlands,Government & Public Sector,Enterprise,9000,304000000,Active,2022-06-27,2023-12-22,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000909,Vortex Intelligence,AMER,United States,Education,Enterprise,9500,190000000,Active,2022-06-28,2023-12-24,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000910,Phoenix Partners,AMER,Canada,Transportation & Logistics,Enterprise,10000,200000000,Active,2022-06-29,2023-12-26,Operational Analytics,Parker Allen,David Thompson
+ACC-000913,Vertex Services,EMEA,United Kingdom,Automotive,Enterprise,11500,344000000,Active,2022-07-02,2024-01-01,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000913,Vertex Services,EMEA,United Kingdom,Automotive,Enterprise,11500,344000000,Active,2022-07-02,2024-01-01,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000913,Vertex Services,EMEA,United Kingdom,Automotive,Enterprise,11500,344000000,Active,2022-07-02,2024-01-01,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000913,Vertex Services,EMEA,United Kingdom,Automotive,Enterprise,11500,344000000,Active,2022-07-02,2024-01-01,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000914,Apex Solutions,EMEA,Sweden,Professional Services,Enterprise,12000,352000000,Active,2022-07-03,2024-01-03,Real-time Analytics,Rain Carter,James Mueller
+ACC-000914,Apex Solutions,EMEA,Sweden,Professional Services,Enterprise,12000,352000000,Active,2022-07-03,2024-01-03,Real-time Analytics,River Scott,Lisa Wang
+ACC-000914,Apex Solutions,EMEA,Sweden,Professional Services,Enterprise,12000,352000000,Active,2022-07-03,2024-01-03,Real-time Analytics,Rowan King,Lisa Wang
+ACC-000915,Matrix Analytics,APJ,Australia,Financial Services,Enterprise,12500,150000000,Active,2022-07-04,2024-01-05,Data Engineering,Atlas Edwards,Priya Sharma
+ACC-000915,Matrix Analytics,APJ,Australia,Financial Services,Enterprise,12500,150000000,Active,2022-07-04,2024-01-05,Data Engineering,Orion Evans,Hiroshi Tanaka
+ACC-000916,Quantum Intelligence,EMEA,United Kingdom,Healthcare & Life Sciences,Mid-Market,2100,32000000,Active,2022-07-05,2024-01-07,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000918,Catalyst Associates,APJ,Australia,Retail & E-commerce,Mid-Market,2300,24000000,Active,2022-07-07,2024-01-11,Financial Analytics,Zara Collins,Priya Sharma
+ACC-000918,Catalyst Associates,APJ,Australia,Retail & E-commerce,Mid-Market,2300,24000000,Active,2022-07-07,2024-01-11,Financial Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000920,Global Solutions,AMER,United States,Media & Entertainment,Mid-Market,2500,50000000,New,2022-07-09,2024-01-15,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000921,Beta Ltd,AMER,United States,Telecommunications,Mid-Market,2600,52000000,Churned,2022-07-10,2024-01-17,Risk & Compliance,Emery Young,David Thompson
+ACC-000922,Phoenix Analytics,AMER,United States,Energy & Utilities,Mid-Market,2700,54000000,At Risk,2022-07-11,2024-01-19,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000925,Vertex Associates,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2022-07-14,2024-01-25,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000925,Vertex Associates,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2022-07-14,2024-01-25,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000925,Vertex Associates,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2022-07-14,2024-01-25,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000925,Vertex Associates,AMER,United States,Transportation & Logistics,Mid-Market,3000,60000000,Active,2022-07-14,2024-01-25,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000926,Apex Consulting,APJ,Australia,Real Estate,Mid-Market,3100,12000000,Active,2022-07-15,2024-01-27,Real-time Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000927,Matrix Services,AMER,Canada,Insurance,Mid-Market,3200,64000000,Active,2022-07-16,2024-01-29,Data Engineering,Quinn Anderson,Michael Chen
+ACC-000928,Quantum Solutions,EMEA,United Kingdom,Automotive,Mid-Market,3300,12500000,Active,2022-07-17,2024-01-31,Customer 360,Phoenix Wright,Lisa Wang
+ACC-000930,Catalyst Intelligence,EMEA,France,Financial Services,Mid-Market,500,15500000,Active,2022-07-19,2024-02-04,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000932,Zenith Associates,APJ,Australia,Technology,Mid-Market,700,18000000,Active,2022-07-21,2024-02-08,Supply Chain Analytics,Zara Collins,Priya Sharma
+ACC-000932,Zenith Associates,APJ,Australia,Technology,Mid-Market,700,18000000,Active,2022-07-21,2024-02-08,Supply Chain Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000934,Phoenix Services,AMER,United States,Manufacturing,Mid-Market,900,18000000,Active,2022-07-23,2024-02-12,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000936,Nexus Analytics,AMER,United States,Telecommunications,Mid-Market,1100,22000000,Active,2022-07-25,2024-02-16,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000938,Apex Partners,AMER,Mexico,Government & Public Sector,Mid-Market,1300,26000000,Active,2022-07-27,2024-02-20,Real-time Analytics,Finley White,Jennifer Rodriguez
+ACC-000939,Matrix Associates,AMER,Mexico,Education,Mid-Market,1400,28000000,Active,2022-07-28,2024-02-22,Data Engineering,Emery Young,David Thompson
+ACC-000940,Global Industries,AMER,United States,Transportation & Logistics,Mid-Market,1500,30000000,New,2022-07-29,2024-02-24,Customer 360,Drew Garcia,Michael Chen
+ACC-000941,Sigma Holdings,AMER,Canada,Real Estate,Mid-Market,1600,32000000,Churned,2022-07-30,2024-02-26,IoT Analytics,Cameron Lee,Jennifer Rodriguez
+ACC-000941,Sigma Holdings,AMER,Canada,Real Estate,Mid-Market,1600,32000000,Churned,2022-07-30,2024-02-26,IoT Analytics,Casey Wilson,Sarah Johnson
+ACC-000942,Catalyst Solutions,AMER,United States,Insurance,Mid-Market,1700,34000000,At Risk,2022-07-31,2024-02-28,Financial Analytics,Blake Miller,Jennifer Rodriguez
+ACC-000942,Catalyst Solutions,AMER,United States,Insurance,Mid-Market,1700,34000000,At Risk,2022-07-31,2024-02-28,Financial Analytics,Taylor Brooks,Sarah Johnson
+ACC-000943,Pinnacle Analytics,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2022-08-01,2024-03-01,Marketing Analytics,Skyler Hall,David Thompson
+ACC-000943,Pinnacle Analytics,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2022-08-01,2024-03-01,Marketing Analytics,Sage Thompson,Michael Chen
+ACC-000943,Pinnacle Analytics,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2022-08-01,2024-03-01,Marketing Analytics,Avery Johnson,Michael Chen
+ACC-000943,Pinnacle Analytics,AMER,United States,Automotive,Mid-Market,1800,36000000,Active,2022-08-01,2024-03-01,Marketing Analytics,Alex Rivera,Sarah Johnson
+ACC-000944,Zenith Intelligence,AMER,Canada,Professional Services,Mid-Market,1900,38000000,Active,2022-08-02,2024-03-03,Supply Chain Analytics,Reese Lewis,David Thompson
+ACC-000944,Zenith Intelligence,AMER,Canada,Professional Services,Mid-Market,1900,38000000,Active,2022-08-02,2024-03-03,Supply Chain Analytics,Riley Martinez,Michael Chen
+ACC-000945,Vortex Partners,AMER,United States,Financial Services,Mid-Market,2000,40000000,Active,2022-08-03,2024-03-05,Risk & Compliance,Quinn Anderson,Michael Chen
+ACC-000946,Phoenix Associates,APJ,Australia,Healthcare & Life Sciences,SMB,200,1600000,Active,2022-08-04,2024-03-07,Operational Analytics,Zara Collins,Priya Sharma
+ACC-000946,Phoenix Associates,APJ,Australia,Healthcare & Life Sciences,SMB,200,1600000,Active,2022-08-04,2024-03-07,Operational Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000949,Vertex Solutions,AMER,United States,Manufacturing,SMB,275,2800000,Active,2022-08-07,2024-03-13,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000951,Matrix Intelligence,APJ,Australia,Telecommunications,SMB,325,900000,Active,2022-08-09,2024-03-17,Data Engineering,Neo Parker,Hiroshi Tanaka
+ACC-000952,Quantum Partners,AMER,Canada,Energy & Utilities,SMB,350,3400000,Active,2022-08-10,2024-03-19,Customer 360,Jordan Kim,Sarah Johnson
+ACC-000953,Synergy Associates,LATAM,Argentina,Government & Public Sector,SMB,375,640000,Active,2022-08-11,2024-03-21,IoT Analytics,Rio Rogers,Carlos Silva
+ACC-000953,Synergy Associates,LATAM,Argentina,Government & Public Sector,SMB,375,640000,Active,2022-08-11,2024-03-21,IoT Analytics,Cruz Morris,Carlos Silva
+ACC-000954,Catalyst Consulting,AMER,United States,Education,SMB,400,3800000,Active,2022-08-12,2024-03-23,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000956,Zenith Solutions,EMEA,Spain,Real Estate,SMB,450,2450000,Active,2022-08-14,2024-03-27,Supply Chain Analytics,Luna Perez,Emma Larsson
+ACC-000957,Vortex Analytics,AMER,Mexico,Insurance,SMB,475,4400000,Active,2022-08-15,2024-03-29,Risk & Compliance,Emery Young,David Thompson
+ACC-000958,Phoenix Intelligence,AMER,Canada,Automotive,SMB,500,4600000,Active,2022-08-16,2024-03-31,Operational Analytics,Drew Garcia,Michael Chen
+ACC-000961,Beta Inc,AMER,United States,Healthcare & Life Sciences,SMB,75,1200000,Churned,2022-08-19,2024-04-06,Machine Learning & AI,Skyler Hall,David Thompson
+ACC-000961,Beta Inc,AMER,United States,Healthcare & Life Sciences,SMB,75,1200000,Churned,2022-08-19,2024-04-06,Machine Learning & AI,Sage Thompson,Michael Chen
+ACC-000961,Beta Inc,AMER,United States,Healthcare & Life Sciences,SMB,75,1200000,Churned,2022-08-19,2024-04-06,Machine Learning & AI,Avery Johnson,Michael Chen
+ACC-000961,Beta Inc,AMER,United States,Healthcare & Life Sciences,SMB,75,1200000,Churned,2022-08-19,2024-04-06,Machine Learning & AI,Alex Rivera,Sarah Johnson
+ACC-000962,Apex Services,AMER,Canada,Technology,SMB,100,1400000,At Risk,2022-08-20,2024-04-08,Real-time Analytics,Reese Lewis,David Thompson
+ACC-000962,Apex Services,AMER,Canada,Technology,SMB,100,1400000,At Risk,2022-08-20,2024-04-08,Real-time Analytics,Riley Martinez,Michael Chen
+ACC-000964,Quantum Analytics,AMER,United States,Manufacturing,SMB,150,1800000,Active,2022-08-22,2024-04-12,Customer 360,Parker Allen,David Thompson
+ACC-000965,Synergy Intelligence,EMEA,United Kingdom,Media & Entertainment,SMB,175,1550000,Active,2022-08-23,2024-04-14,IoT Analytics,Cloud Mitchell,James Mueller
+ACC-000965,Synergy Intelligence,EMEA,United Kingdom,Media & Entertainment,SMB,175,1550000,Active,2022-08-23,2024-04-14,IoT Analytics,Ocean Baker,James Mueller
+ACC-000968,Zenith Consulting,LATAM,Argentina,Government & Public Sector,SMB,250,1040000,Active,2022-08-26,2024-04-20,Supply Chain Analytics,Rio Rogers,Carlos Silva
+ACC-000968,Zenith Consulting,LATAM,Argentina,Government & Public Sector,SMB,250,1040000,Active,2022-08-26,2024-04-20,Supply Chain Analytics,Cruz Morris,Carlos Silva
+ACC-000970,Phoenix Solutions,AMER,Canada,Transportation & Logistics,SMB,300,3000000,Active,2022-08-28,2024-04-24,Operational Analytics,Jordan Kim,Sarah Johnson
+ACC-000972,Nexus Intelligence,AMER,Canada,Insurance,SMB,350,3400000,Active,2022-08-30,2024-04-28,Data Analytics & BI,Hayden Clark,Jennifer Rodriguez
+ACC-000974,Apex Associates,APJ,Japan,Professional Services,SMB,400,800000,Active,2022-09-01,2024-05-02,Real-time Analytics,Zara Collins,Priya Sharma
+ACC-000974,Apex Associates,APJ,Japan,Professional Services,SMB,400,800000,Active,2022-09-01,2024-05-02,Real-time Analytics,Zen Phillips,Hiroshi Tanaka
+ACC-000977,Synergy Solutions,LATAM,Chile,Technology,SMB,475,960000,Active,2022-09-04,2024-05-08,IoT Analytics,Rio Rogers,Carlos Silva
+ACC-000977,Synergy Solutions,LATAM,Chile,Technology,SMB,475,960000,Active,2022-09-04,2024-05-08,IoT Analytics,Cruz Morris,Carlos Silva
+ACC-000978,Catalyst Analytics,EMEA,Sweden,Retail & E-commerce,SMB,500,1250000,Active,2022-09-05,2024-05-10,Financial Analytics,Nova Roberts,Emma Larsson
+ACC-000980,Global Industries,LATAM,Chile,Media & Entertainment,SMB,50,400000,New,2022-09-07,2024-05-14,Supply Chain Analytics,Rio Rogers,Carlos Silva
+ACC-000980,Global Industries,LATAM,Chile,Media & Entertainment,SMB,50,400000,New,2022-09-07,2024-05-14,Supply Chain Analytics,Cruz Morris,Carlos Silva
+ACC-000985,Vertex Analytics,AMER,United States,Transportation & Logistics,SMB,175,2000000,Active,2022-09-12,2024-05-24,Machine Learning & AI,Morgan Davis,Sarah Johnson
+ACC-000986,Apex Intelligence,LATAM,Chile,Real Estate,SMB,200,880000,Active,2022-09-13,2024-05-26,Real-time Analytics,Rio Rogers,Carlos Silva
+ACC-000986,Apex Intelligence,LATAM,Chile,Real Estate,SMB,200,880000,Active,2022-09-13,2024-05-26,Real-time Analytics,Cruz Morris,Carlos Silva
+ACC-000988,Quantum Associates,APJ,Australia,Automotive,SMB,250,1000000,Active,2022-09-15,2024-05-30,Customer 360,Zara Collins,Priya Sharma
+ACC-000988,Quantum Associates,APJ,Australia,Automotive,SMB,250,1000000,Active,2022-09-15,2024-05-30,Customer 360,Zen Phillips,Hiroshi Tanaka
+ACC-000989,Synergy Consulting,APJ,Australia,Professional Services,SMB,275,1100000,Active,2022-09-16,2024-06-01,IoT Analytics,Kai Campbell,Hiroshi Tanaka
+ACC-000990,Catalyst Services,AMER,United States,Financial Services,SMB,300,3000000,Active,2022-09-17,2024-06-03,Financial Analytics,Hayden Clark,Jennifer Rodriguez
+ACC-000992,Zenith Analytics,AMER,Canada,Technology,SMB,350,3400000,Active,2022-09-19,2024-06-07,Supply Chain Analytics,Finley White,Jennifer Rodriguez
+ACC-000993,Vortex Intelligence,AMER,Mexico,Retail & E-commerce,SMB,375,3600000,Active,2022-09-20,2024-06-09,Risk & Compliance,Emery Young,David Thompson
+ACC-000995,Titan Associates,AMER,United States,Media & Entertainment,SMB,425,4000000,Active,2022-09-22,2024-06-13,Data Science Platform,Cameron Lee,Jennifer Rodriguez
+ACC-000995,Titan Associates,AMER,United States,Media & Entertainment,SMB,425,4000000,Active,2022-09-22,2024-06-13,Data Science Platform,Casey Wilson,Sarah Johnson
+ACC-000996,Nexus Consulting,AMER,United States,Telecommunications,SMB,450,4200000,Active,2022-09-23,2024-06-15,Data Analytics & BI,Blake Miller,Jennifer Rodriguez
+ACC-000996,Nexus Consulting,AMER,United States,Telecommunications,SMB,450,4200000,Active,2022-09-23,2024-06-15,Data Analytics & BI,Taylor Brooks,Sarah Johnson
+ACC-000997,Vertex Services,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2022-09-24,2024-06-17,Machine Learning & AI,Star Turner,Emma Larsson
+ACC-000997,Vertex Services,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2022-09-24,2024-06-17,Machine Learning & AI,Sky Nelson,James Mueller
+ACC-000997,Vertex Services,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2022-09-24,2024-06-17,Machine Learning & AI,Storm Adams,Lisa Wang
+ACC-000997,Vertex Services,EMEA,France,Energy & Utilities,SMB,475,1850000,Active,2022-09-24,2024-06-17,Machine Learning & AI,Sage Green,Lisa Wang
+ACC-000998,Apex Solutions,AMER,Mexico,Government & Public Sector,SMB,500,4600000,Active,2022-09-25,2024-06-19,Real-time Analytics,Reese Lewis,David Thompson
+ACC-000998,Apex Solutions,AMER,Mexico,Government & Public Sector,SMB,500,4600000,Active,2022-09-25,2024-06-19,Real-time Analytics,Riley Martinez,Michael Chen
+ACC-001000,Global Solutions,AMER,United States,Transportation & Logistics,Enterprise,5000,100000000,New,2022-09-27,2024-06-23,Customer 360,Parker Allen,David Thompson
