@@ -365,30 +365,6 @@ display(result_df)
 
 # COMMAND ----------
 
-# DBTITLE 1,Test Trailing 12-Month Window Measures
-# Test the trailing 12-month window measures
-window_query = f"""
-SELECT 
-  consumption_month,
-  region,
-  MEASURE(total_dbu_dollars) AS monthly_dbu_dollars,
-  MEASURE(total_dbu_dollars_t12_months) AS t12m_dbu_dollars,
-  MEASURE(total_u2_units) AS monthly_u2_units,
-  MEASURE(total_u2_units_t12_months) AS t12m_u2_units
-FROM {metric_view_name}
-WHERE region = 'AMER'
-GROUP BY ALL
-ORDER BY consumption_month DESC
-LIMIT 12
-"""
-
-print("Trailing 12-Month Window Measures for AMER Region")
-print("=" * 60)
-window_df = spark.sql(window_query)
-display(window_df)
-
-# COMMAND ----------
-
 # MAGIC %md
 # MAGIC ## Next Steps
 # MAGIC - Create a **Genie Space** to query this data using natural language
