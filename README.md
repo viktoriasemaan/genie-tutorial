@@ -56,9 +56,8 @@ Create a Genie Space to query your data using natural language.
 ### Try It Out
 
 Ask questions in natural language, such as:
-- "What is the total DBU consumption by region?"
-- "Show me the top 10 accounts by DBU dollars"
-- "What is the trend of DBU consumption over time?"
+- "Show me revenue by months in 2025 as a bar chart"
+- "What drove a spike in June?"
 
 ![Genie Demo](images/Genie%20research%20gif%2016x9.gif)
 
