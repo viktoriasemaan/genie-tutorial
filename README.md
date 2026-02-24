@@ -30,6 +30,8 @@ Clone this repository to your Databricks workspace and run the data ingestion no
 5. Enter your **catalog** and **schema** names in the widgets at the top
 6. Click **Run all** to execute the notebook
 
+![Clone Git Repository](images/free%20edition%20git%20GIF%2016x9.gif)
+
 ### What Gets Created
 
 | Object | Description |
